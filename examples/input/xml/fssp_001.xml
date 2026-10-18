@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fssp:OIp xmlns:fssp="http://www.fssprus.ru/namespace/order/2017/2">
+  <fssp:Id>85338213605870</fssp:Id>
+  <fssp:DocType>O_IP_ACT_END_END</fssp:DocType>
+  <fssp:DocName>Постановление об окончании исполнительного производства</fssp:DocName>
+  <fssp:Barcode>832921351/3801</fssp:Barcode>
+  <fssp:DivVksp>55003</fssp:DivVksp>
+  <fssp:DivName>ОСП по Октябрьскому АО г. Теста ГУФССП России по Пробной области</fssp:DivName>
+  <fssp:DivCity>г. Тест</fssp:DivCity>
+  <fssp:DivAdr>644027, Россия, , , г. Тест, , Космический пр-кт, 31, , </fssp:DivAdr>
+  <fssp:DocDate>2033-06-10</fssp:DocDate>
+  <fssp:AdjudicationText>В ходе исполнения данного исполнительного производства установлено, что у должника отсутствует имущество, на которое может быть обращено взыскание, и все принятые судебным приставом-исполнителем допустимые законом меры по отысканию его имущества оказались безрезультатными.</fssp:AdjudicationText>
+  <fssp:ResolutionText>1. Исполнительное производство № 835049/33/55003-ИП окончить.
+2. Отменить все назначенные меры принудительного исполнения, а так же установленные для должника ограничения.
+3. Копию настоящего постановления направить:</fssp:ResolutionText>
+  <fssp:FioSign>Учебова Вера Мироновна</fssp:FioSign>
+  <fssp:OrganSignPostCode>07-05</fssp:OrganSignPostCode>
+  <fssp:OrganSignPost>Судебный пристав-исполнитель</fssp:OrganSignPost>
+  <fssp:IsOrder>false</fssp:IsOrder>
+  <fssp:DebtorType>2</fssp:DebtorType>
+  <fssp:DbtrName>Пробов Назар Назарович</fssp:DbtrName>
+  <fssp:DbtrAdr>643,644086,55,,,Тест,22 Пробная,9,23</fssp:DbtrAdr>
+  <fssp:idDbtrBorn>2008-04-17</fssp:idDbtrBorn>
+  <fssp:IdDbtrBornadr>г. Тест</fssp:IdDbtrBornadr>
+  <fssp:DbtrInn>814083822493</fssp:DbtrInn>
+  <fssp:IdDbtrSNILS>82397425841</fssp:IdDbtrSNILS>
+  <fssp:IdDbtrUIP>8779879016141826946048</fssp:IdDbtrUIP>
+  <fssp:IdCourtName>Судебный участок № 69 в Октябрьском судебном районе в городе Тесте</fssp:IdCourtName>
+  <fssp:IdCourtAdr>643,644018,,,г. Тест-018,,ул. 6-я Модельная,д. 11 А,</fssp:IdCourtAdr>
+  <fssp:IdCourt>2400400</fssp:IdCourt>
+  <fssp:IpRisepristName>Учебова Вера Мироновна</fssp:IpRisepristName>
+  <fssp:Spi>Учебова Вера Мироновна</fssp:Spi>
+  <fssp:IpNo>835049/33/55003-ИП</fssp:IpNo>
+  <fssp:IpId>81476745260332</fssp:IpId>
+  <fssp:IpRiseDate>2033-04-06</fssp:IpRiseDate>
+  <fssp:IpRestDebtsum>134288.50</fssp:IpRestDebtsum>
+  <fssp:IpRestOthersum>9400.18</fssp:IpRestOthersum>
+  <fssp:IdType>4</fssp:IdType>
+  <fssp:IdDocNo>55MS0069#2-8540/2033#8</fssp:IdDocNo>
+  <fssp:IdDocDate>2033-03-31</fssp:IdDocDate>
+  <fssp:IdDeloNo>2-8540/2033</fssp:IdDeloNo>
+  <fssp:IdDeloDate>2033-03-31</fssp:IdDeloDate>
+  <fssp:IdDebtCls>1460000</fssp:IdDebtCls>
+  <fssp:IdDebtSum>134288.50</fssp:IdDebtSum>
+  <fssp:DebtsumCurrencyCode>643</fssp:DebtsumCurrencyCode>
+  <fssp:TotalArrestDebtSum>143688.68</fssp:TotalArrestDebtSum>
+  <fssp:IdDebtText>Взыскать солидарно с должника(ов): Пробова Варвара Тихоновна, 21.06.2009 года рождения, место рождения г. Тест, ИНН 834340632798, Пробов Назар Назарович, 17.04.2008 года рождения, место рождения г. Тест, ИНН 814083822493, место работы не известно, адрес: 644117 г. Тест ул. 4-я Условная д. 62, кв. 56, в пользу взыскателя - АО «Тест РТС», расположенного по адресу: 644037, г. Тест, ул. Шаблонная, д. 10, ИНН 8016874059, ОГРН 8642767001947, КПП 863182317, дата внесения записи в ЕГРЮЛ 03.08.2021 года,  задолженность за потребленную тепловую энергию за период с 03.01.2031 по 02.12.2032 в размере 88300,94 руб., пени в размере 41622,76 руб. за период с 03.01.2031 по 02.12.2032, а также расходы по уплате государственной пошлины в размере 4000,00 руб., почтовые расходы в размере 364,80 руб.</fssp:IdDebtText>
+  <fssp:IdCrdrName>АО Тест РТС Акционерное общество "Омские распределительные сети"</fssp:IdCrdrName>
+  <fssp:IdCrdrAdr>643,644037,55,,Тест,,Шаблонная,10,</fssp:IdCrdrAdr>
+  <fssp:IDExternalKey>55MS0069#2-8540/2033#8</fssp:IDExternalKey>
+  <fssp:IDSum>0.00</fssp:IDSum>
+  <fssp:OIpNpaActsOIp>
+    <fssp:NPAType>4</fssp:NPAType>
+    <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>6</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>14</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+  </fssp:OIpNpaActsOIp>
+  <fssp:OIpNpaActsOIp>
+    <fssp:NPAType>4</fssp:NPAType>
+    <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>46</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>1</fssp:NpaArticle>
+        <fssp:NpaArticleType>7</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+        <fssp:OIpNpaArticle>
+          <fssp:NpaArticle>4</fssp:NpaArticle>
+          <fssp:NpaArticleType>5</fssp:NpaArticleType>
+          <fssp:IsMain>false</fssp:IsMain>
+        </fssp:OIpNpaArticle>
+      </fssp:OIpNpaArticle>
+    </fssp:OIpNpaArticle>
+  </fssp:OIpNpaActsOIp>
+  <fssp:OIpActWarningsOIp>
+    <fssp:WarningType>2</fssp:WarningType>
+    <fssp:WarningCode>ФЗ229_СТ121_СТ122</fssp:WarningCode>
+    <fssp:WarningText>Постановление может быть обжаловано в порядке подчиненности вышестоящему должностному лицу службы судебных приставов или оспорено в суде в десятидневный срок</fssp:WarningText>
+    <fssp:OIpNpaActs>
+      <fssp:NPAType>4</fssp:NPAType>
+      <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>121</fssp:NpaArticle>
+        <fssp:NpaArticleType>3</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+      </fssp:OIpNpaArticle>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>122</fssp:NpaArticle>
+        <fssp:NpaArticleType>3</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+      </fssp:OIpNpaArticle>
+    </fssp:OIpNpaActs>
+  </fssp:OIpActWarningsOIp>
+  <fssp:SendList>
+    <fssp:Receiver>АО Тест РТС Акционерное общество "Омские распределительные сети"</fssp:Receiver>
+    <fssp:ReceiverAddrType>ЕПГУ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>8016874059</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный участок № 69 в Октябрьском судебном районе в городе Тесте</fssp:Receiver>
+    <fssp:ReceiverAddrType>ПОЧТОЙ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>644018, г. Тест-018, ул. 6-я Модельная, д. 11 А</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный участок № 69 в Октябрьском судебном районе в городе Тесте</fssp:Receiver>
+    <fssp:ReceiverAddrType>ПОЧТОЙ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>643,644018,,,г. Тест-018,,ул. 6-я Модельная,д. 11 А,</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный департамент при Верховном Суде РФ - Подразделение 55MS0069</fssp:Receiver>
+    <fssp:ReceiverAddrType>ВЕБ-СЕРВИС</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>План от 12(20).01.2016</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Пробов Назар Назарович</fssp:Receiver>
+    <fssp:ReceiverAddrType>ЕПГУ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>82397425841</fssp:ReceiverAddr>
+  </fssp:SendList>
+</fssp:OIp>

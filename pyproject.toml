@@ -1,0 +1,31 @@
+[project]
+name = "court-ai"
+version = "0.1.0"
+description = "ИИ-помощник для обработки судебных документов и документов ФССП"
+requires-python = ">=3.10"
+dependencies = [
+    "pymupdf>=1.24",
+    "pdfplumber>=0.11",
+    "lxml>=5.0",
+    "openpyxl>=3.1",
+    "pydantic>=2.6",
+    "pyyaml>=6.0",
+    "python-dotenv>=1.0",
+    "httpx>=0.27",
+    "pytesseract>=0.3.10",
+    "opencv-python-headless>=4.9",
+    "rapidfuzz>=3.6",
+    "typer>=0.12",
+    "pymorphy3>=2.0",
+    "pymorphy3-dicts-ru>=2.4",
+    "fastapi>=0.110",
+    "uvicorn>=0.29",
+    "python-multipart>=0.0.9",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "aiosmtpd>=1.4"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

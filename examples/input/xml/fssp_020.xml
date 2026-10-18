@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fssp:OIp xmlns:fssp="http://www.fssp.gov.ru/namespace/order_fssp/2022/1">
+  <fssp:Id>86207829690042</fssp:Id>
+  <fssp:DocType>O_IP_ACT_RETURN</fssp:DocType>
+  <fssp:DocName>Постановление об окончании и возвращении ИД взыскателю</fssp:DocName>
+  <fssp:Barcode>863413259/5343</fssp:Barcode>
+  <fssp:DivVksp>55005</fssp:DivVksp>
+  <fssp:DivName>ОСП по Центральному АО № 1 г. Теста</fssp:DivName>
+  <fssp:DivCity>г. Тест</fssp:DivCity>
+  <fssp:DivAdr>644033, Россия, , , г. Тест, , ул. Затонская 1-я, 17, , </fssp:DivAdr>
+  <fssp:DocDate>2032-05-14</fssp:DocDate>
+  <fssp:AdjudicationText>По исполнительному документу, по которому взыскание не производилось или произведено частично, взыскатель извещается о невозможности взыскания путем направления постановления об окончании исполнительного производства и о возвращении взыскателю исполнительного документа в связи с тем, что у должника отсутствует имущество, на которое может быть обращено взыскание, и все принятые судебным приставом-исполнителем допустимые законом меры по отысканию его имущества оказались безрезультатными.</fssp:AdjudicationText>
+  <fssp:ResolutionText>1. Исполнительное производство № 860924/32/55005-ИП окончить.
+2. Известить взыскателя о невозможности взыскания по исполнительному документу, по которому взыскание не производилось или произведено частично, путем направления постановления об окончании исполнительного производства и о возвращении взыскателю исполнительного документа.
+3. Возвратить исполнительный документ Судебный приказ № 2-879-79/2028 от 12.08.2028, выданный органом: Судебный участок № 79 в Первомайском судебном районе в городе Тесте по делу № 2-879-79/2028, вступившему в законную силу 12.08.2028, предмет исполнения: Задолженность по платежам за тепловую энергию, госпошлина в размере: 35637,46 руб., в отношении должника: Сценарова Глеба Арсеньевича, адрес должника: ул. Учебный Путь, д. 20, корп. 1, кв. 26, г. Тест, Пробная обл., Россия, 644086, в пользу взыскателя: АО "Тест РТС", адрес взыскателя: ул. Шаблонная, д. 10, г. Тест, Россия, 644037 взыскателю АО "Тест РТС", адрес взыскателя: 644037, Россия, , , г. Тест, , ул. Шаблонная, д. 10, , .
+4. Отменить все назначенные меры принудительного исполнения, а также установленные для должника ограничения.
+5. Уведомить взыскателя, что в соответствии с частью 4 статьи 46 Федерального закона от 02.10.2007 № 229-ФЗ «Об исполнительном производстве», извещение взыскателя о невозможности взыскания по исполнительному документу не является препятствием для повторного предъявления исполнительного документа к исполнению в пределах срока, установленного статьей 21 Федерального закона от 02.10.2007 № 229-ФЗ «Об исполнительном производстве».
+6. Уведомить взыскателя, что в случае извещения взыскателя о невозможности взыскания по исполнительному документу в соответствии с пунктом 4 части 1 статьи 46 Федерального закона от 02.10.2007 № 229-ФЗ «Об исполнительном производстве» взыскатель вправе повторно предъявить для исполнения исполнительные документы, указанные в частях 1, 3, 4 и 7 статьи 21 Федерального закона от 02.10.2007 № 229-ФЗ «Об исполнительном производстве» не ранее шести месяцев со дня вынесения постановления об окончании исполнительного производства и о возвращении взыскателю исполнительного документа, а другие исполнительные документы не ранее двух месяцев либо до истечения указанного срока в случае предъявления взыскателем информации об изменении имущественного положения должника.
+7. Копии постановления направить:</fssp:ResolutionText>
+  <fssp:FioSign>Разметова Алиса Прохоровна</fssp:FioSign>
+  <fssp:OrganSignPostCode>07-05</fssp:OrganSignPostCode>
+  <fssp:SpecialGradesSign>старший лейтенант внутренней службы</fssp:SpecialGradesSign>
+  <fssp:OrganSignPost>Судебный пристав-исполнитель</fssp:OrganSignPost>
+  <fssp:IsOrder>false</fssp:IsOrder>
+  <fssp:DebtorType>2</fssp:DebtorType>
+  <fssp:DbtrName>Сценаров Глеб Арсеньевич</fssp:DbtrName>
+  <fssp:DbtrAdr>644086, Россия, Пробная обл., , г. Тест, , ул. Учебный Путь, д. 20, корп. 1, кв. 26</fssp:DbtrAdr>
+  <fssp:IdDbtrBornadr>, , Пробная обл., , , , , , ,</fssp:IdDbtrBornadr>
+  <fssp:IdCourtName>Судебный участок № 79 в Первомайском судебном районе в городе Тесте</fssp:IdCourtName>
+  <fssp:IdCourtAdr>644033, Россия, Пробная обл., , г. Тест, , ул. 1-я Затонская, д. 24, ,</fssp:IdCourtAdr>
+  <fssp:IdCourt>2400400</fssp:IdCourt>
+  <fssp:IpRisepristName>Разметова Алиса Прохоровна</fssp:IpRisepristName>
+  <fssp:Spi>Разметова Алиса Прохоровна</fssp:Spi>
+  <fssp:SpiSignPostCode>07-05</fssp:SpiSignPostCode>
+  <fssp:SpiSignPost>Судебный пристав-исполнитель</fssp:SpiSignPost>
+  <fssp:IpNo>860924/32/55005-ИП</fssp:IpNo>
+  <fssp:IpId>83833144026659</fssp:IpId>
+  <fssp:IpRiseDate>2032-02-09</fssp:IpRiseDate>
+  <fssp:IpRestDebtsum>35637.46</fssp:IpRestDebtsum>
+  <fssp:IpRestOthersum>0.00</fssp:IpRestOthersum>
+  <fssp:IdType>4</fssp:IdType>
+  <fssp:IdDocNo>2-879-79/2028</fssp:IdDocNo>
+  <fssp:IdDocDate>2028-08-12</fssp:IdDocDate>
+  <fssp:IdDeloNo>2-879-79/2028</fssp:IdDeloNo>
+  <fssp:IdDeloDate>2028-08-12</fssp:IdDeloDate>
+  <fssp:IdDebtCls>1460000</fssp:IdDebtCls>
+  <fssp:IdDebtSum>35637.46</fssp:IdDebtSum>
+  <fssp:DebtsumCurrencyCode>643</fssp:DebtsumCurrencyCode>
+  <fssp:TotalArrestDebtSum>35637.46</fssp:TotalArrestDebtSum>
+  <fssp:IdDebtText>Задолженность по платежам за тепловую энергию, госпошлина</fssp:IdDebtText>
+  <fssp:IdCrdrName>АО "Тест РТС"</fssp:IdCrdrName>
+  <fssp:IdCrdrAdr>644037, Россия, , , г. Тест, , ул. Шаблонная, д. 10, , </fssp:IdCrdrAdr>
+  <fssp:IDSum>0.00</fssp:IDSum>
+  <fssp:OIpNpaActsOIp>
+    <fssp:NPAType>4</fssp:NPAType>
+    <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>46</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>1</fssp:NpaArticle>
+        <fssp:NpaArticleType>7</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+        <fssp:OIpNpaArticle>
+          <fssp:NpaArticle>4</fssp:NpaArticle>
+          <fssp:NpaArticleType>5</fssp:NpaArticleType>
+          <fssp:IsMain>false</fssp:IsMain>
+        </fssp:OIpNpaArticle>
+      </fssp:OIpNpaArticle>
+    </fssp:OIpNpaArticle>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>47</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>1</fssp:NpaArticle>
+        <fssp:NpaArticleType>7</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+        <fssp:OIpNpaArticle>
+          <fssp:NpaArticle>3</fssp:NpaArticle>
+          <fssp:NpaArticleType>5</fssp:NpaArticleType>
+          <fssp:IsMain>false</fssp:IsMain>
+        </fssp:OIpNpaArticle>
+      </fssp:OIpNpaArticle>
+    </fssp:OIpNpaArticle>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>14</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>46</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>1</fssp:NpaArticle>
+        <fssp:NpaArticleType>7</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+      </fssp:OIpNpaArticle>
+    </fssp:OIpNpaArticle>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>47</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>1</fssp:NpaArticle>
+        <fssp:NpaArticleType>7</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+      </fssp:OIpNpaArticle>
+    </fssp:OIpNpaArticle>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>6</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+  </fssp:OIpNpaActsOIp>
+  <fssp:OIpActWarningsOIp>
+    <fssp:WarningType>2</fssp:WarningType>
+    <fssp:WarningCode>ФЗ229_СТ121_СТ122</fssp:WarningCode>
+    <fssp:WarningText>Постановление может быть обжаловано в порядке подчиненности вышестоящему должностному лицу службы судебных приставов или оспорено в суде в десятидневный срок</fssp:WarningText>
+    <fssp:OIpNpaActs>
+      <fssp:NPAType>4</fssp:NPAType>
+      <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>121</fssp:NpaArticle>
+        <fssp:NpaArticleType>3</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+      </fssp:OIpNpaArticle>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>122</fssp:NpaArticle>
+        <fssp:NpaArticleType>3</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+      </fssp:OIpNpaArticle>
+    </fssp:OIpNpaActs>
+  </fssp:OIpActWarningsOIp>
+  <fssp:SendList>
+    <fssp:Receiver>АО "Тест РТС"</fssp:Receiver>
+    <fssp:ReceiverAddrType>ПОЧТОЙ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>644037, Россия, , , г. Тест, , ул. Шаблонная, д. 10, , </fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>АО "Тест РТС"</fssp:Receiver>
+    <fssp:ReceiverAddrType>ЕПГУ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>8016874059</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный участок № 79 в Первомайском судебном районе в городе Тесте</fssp:Receiver>
+    <fssp:ReceiverAddrType>ПОЧТОЙ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>644033, Россия, Пробная обл., , г. Тест, , ул. 1-я Затонская, д. 24, ,</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Сценаров Глеб Арсеньевич</fssp:Receiver>
+    <fssp:ReceiverAddrType>ПОЧТОЙ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>644086, Россия, Пробная обл., , г. Тест, , ул. Учебный Путь, д. 20, корп. 1, кв. 26</fssp:ReceiverAddr>
+  </fssp:SendList>
+</fssp:OIp>

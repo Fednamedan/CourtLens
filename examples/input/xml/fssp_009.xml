@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fssp:OIp xmlns:fssp="http://www.fssprus.ru/namespace/order/2017/2">
+  <fssp:Id>85396869828266</fssp:Id>
+  <fssp:DocType>O_IP_ACT_END_STOP</fssp:DocType>
+  <fssp:DocName>Постановление о прекращении исполнительного производства</fssp:DocName>
+  <fssp:Barcode>891902284/6638</fssp:Barcode>
+  <fssp:DivVksp>55004</fssp:DivVksp>
+  <fssp:DivName>ОСП по Советскому АО г.Теста</fssp:DivName>
+  <fssp:DivCity>г. Тест</fssp:DivCity>
+  <fssp:DivAdr>644053, Россия, , , г. Тест, , Тест пр-кт, 74, , </fssp:DivAdr>
+  <fssp:DocDate>2033-03-18</fssp:DocDate>
+  <fssp:AdjudicationText>В ходе исполнения требований исполнительного документа установлено, что Отмена или признание недействительным исполнительного документа, на основании которого возбуждено исполнительное производство.</fssp:AdjudicationText>
+  <fssp:ResolutionText>1. Исполнительное производство от 17.10.8043 № 271858/25/55004-ИП прекратить.
+2. Отменить постановление о взыскании исполнительского сбора.
+3. Копии постановления направить сторонам исполнительного производства, в суд, другой орган или должностному лицу, выдавшим исполнительный документ, а также в органы (лицам), исполняющие постановления об установлении для должника ограничений:</fssp:ResolutionText>
+  <fssp:FioSign>Текстова Василиса Викторовна</fssp:FioSign>
+  <fssp:OrganSignPostCode>07-05</fssp:OrganSignPostCode>
+  <fssp:OrganSignPost>Судебный пристав-исполнитель</fssp:OrganSignPost>
+  <fssp:IsOrder>false</fssp:IsOrder>
+  <fssp:DebtorType>2</fssp:DebtorType>
+  <fssp:DbtrName>Мова Василиса Денисовна</fssp:DbtrName>
+  <fssp:DbtrAdr>643,644065,55,,г. Тест,,18 Учебная,34,с4к35</fssp:DbtrAdr>
+  <fssp:idDbtrBorn>1982-01-03</fssp:idDbtrBorn>
+  <fssp:IdDbtrBornadr>г.Тест</fssp:IdDbtrBornadr>
+  <fssp:DbtrInn>881712748824</fssp:DbtrInn>
+  <fssp:IdDbtrSNILS>80789019639</fssp:IdDbtrSNILS>
+  <fssp:IdDbtrUIP>8028293785886492909901</fssp:IdDbtrUIP>
+  <fssp:IdCourtName>Судебный участок № 37 в Советском судебном районе в городе Тесте</fssp:IdCourtName>
+  <fssp:IdCourtAdr>643,644053,,,,Тест-053,Круговая,6 А,</fssp:IdCourtAdr>
+  <fssp:IdCourt>2400400</fssp:IdCourt>
+  <fssp:IpRisepristName>Текстова Василиса Викторовна</fssp:IpRisepristName>
+  <fssp:Spi>Текстова Василиса Викторовна</fssp:Spi>
+  <fssp:IpNo>867311/33/55004-ИП</fssp:IpNo>
+  <fssp:IpId>81415253906718</fssp:IpId>
+  <fssp:IpRiseDate>2033-02-18</fssp:IpRiseDate>
+  <fssp:IpRestDebtsum>57194.80</fssp:IpRestDebtsum>
+  <fssp:IpRestOthersum>0.00</fssp:IpRestOthersum>
+  <fssp:IdType>4</fssp:IdType>
+  <fssp:IdDocNo>55MS0117#2-8149/2033#1</fssp:IdDocNo>
+  <fssp:IdDocDate>2033-02-16</fssp:IdDocDate>
+  <fssp:IdDeloNo>2-8149/2033</fssp:IdDeloNo>
+  <fssp:IdDeloDate>2033-02-10</fssp:IdDeloDate>
+  <fssp:IdDebtCls>1460000</fssp:IdDebtCls>
+  <fssp:IdDebtSum>57194.80</fssp:IdDebtSum>
+  <fssp:DebtsumCurrencyCode>643</fssp:DebtsumCurrencyCode>
+  <fssp:TotalArrestDebtSum>57194.80</fssp:TotalArrestDebtSum>
+  <fssp:IdDebtText>Взыскать с должника Мовой Василисе Денисовне, 03.01.1982 года рождения, место рождения: Пробная область г. Тест, паспорт: 8543 276103, регистрация по месту жительства: 644065, г. Тест, ул. 18 Учебная, д. 34, сек. 4, ком. 35, в пользу Акционерного общества «Тест РТС» (ИНН 8016874059) задолженность за отпущенную тепловую энергию, образовавшуюся по адресу: 644065, г. Тест, ул. 18 Учебная, д. 34, сек. 4, ком. 35 (собственник) за период с 05.06.2030 по 02.12.2032 в размере 39312,46 руб., пени за период с 05.06.2030 по 02.12.2032 в размере 13882,34 руб., а также расходы по оплате государственной пошлины в размере 4000,00 руб. Срок предъявления к исполнению три года. Должник вправе в десятидневный срок со дня получения копии судебного приказа представить возражения относительно его исполнения мировому судье, вынесшему судебный приказ. </fssp:IdDebtText>
+  <fssp:IdCrdrName>АО "Тест РТС"</fssp:IdCrdrName>
+  <fssp:IdCrdrAdr>643,644037,55,,,г. Тест,Шаблонная,10,</fssp:IdCrdrAdr>
+  <fssp:IDExternalKey>55MS0117#2-8149/2033#1</fssp:IDExternalKey>
+  <fssp:IDSum>0.00</fssp:IDSum>
+  <fssp:OIpNpaActsOIp>
+    <fssp:NPAType>4</fssp:NPAType>
+    <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>43</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>2</fssp:NpaArticle>
+        <fssp:NpaArticleType>7</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+        <fssp:OIpNpaArticle>
+          <fssp:NpaArticle>5</fssp:NpaArticle>
+          <fssp:NpaArticleType>5</fssp:NpaArticleType>
+          <fssp:IsMain>false</fssp:IsMain>
+        </fssp:OIpNpaArticle>
+      </fssp:OIpNpaArticle>
+    </fssp:OIpNpaArticle>
+  </fssp:OIpNpaActsOIp>
+  <fssp:OIpNpaActsOIp>
+    <fssp:NPAType>4</fssp:NPAType>
+    <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>6</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>14</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>44</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>45</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+  </fssp:OIpNpaActsOIp>
+  <fssp:OIpActWarningsOIp>
+    <fssp:WarningType>2</fssp:WarningType>
+    <fssp:WarningCode>ФЗ229_СТ121_СТ122</fssp:WarningCode>
+    <fssp:WarningText>Постановление может быть обжаловано в порядке подчиненности вышестоящему должностному лицу службы судебных приставов или оспорено в суде в десятидневный срок</fssp:WarningText>
+    <fssp:OIpNpaActs>
+      <fssp:NPAType>4</fssp:NPAType>
+      <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>121</fssp:NpaArticle>
+        <fssp:NpaArticleType>3</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+      </fssp:OIpNpaArticle>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>122</fssp:NpaArticle>
+        <fssp:NpaArticleType>3</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+      </fssp:OIpNpaArticle>
+    </fssp:OIpNpaActs>
+  </fssp:OIpActWarningsOIp>
+  <fssp:SendList>
+    <fssp:Receiver>АО "Тест РТС"</fssp:Receiver>
+    <fssp:ReceiverAddrType>ЕПГУ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>8016874059</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный участок № 37 в Советском судебном районе в городе Тесте</fssp:Receiver>
+    <fssp:ReceiverAddrType>ПОЧТОЙ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>644059, г. Тест-053, ул. Круговая, д. 6 А</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный участок № 37 в Советском судебном районе в городе Тесте</fssp:Receiver>
+    <fssp:ReceiverAddrType>ПОЧТОЙ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>643,644053,,,,Тест-053,Круговая,6 А,</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный департамент при Верховном Суде РФ - Подразделение 55MS0117</fssp:Receiver>
+    <fssp:ReceiverAddrType>ВЕБ-СЕРВИС</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>План от 12(20).01.2016</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Мова Василиса Денисовна</fssp:Receiver>
+    <fssp:ReceiverAddrType>ЕПГУ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>80789019639</fssp:ReceiverAddr>
+  </fssp:SendList>
+</fssp:OIp>

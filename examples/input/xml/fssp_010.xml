@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fssp:OIp xmlns:fssp="http://www.fssprus.ru/namespace/order/2017/2">
+  <fssp:Id>82397166385968</fssp:Id>
+  <fssp:DocType>O_IP_ACT_END_STOP</fssp:DocType>
+  <fssp:DocName>Постановление о прекращении исполнительного производства</fssp:DocName>
+  <fssp:Barcode>810413146/4046</fssp:Barcode>
+  <fssp:DivVksp>55006</fssp:DivVksp>
+  <fssp:DivName>ОСП по Центральному АО № 2 г.Теста</fssp:DivName>
+  <fssp:DivCity>г. Тест</fssp:DivCity>
+  <fssp:DivAdr>644009, Россия, , , г. Тест, , ул. 12 лет Примеров, 187А, , </fssp:DivAdr>
+  <fssp:DocDate>2033-04-15</fssp:DocDate>
+  <fssp:AdjudicationText>В ходе исполнения требований исполнительного документа установлено, что Отмена судебного акта, на основании которого выдан исполнительный документ.</fssp:AdjudicationText>
+  <fssp:ResolutionText>1. Исполнительное производство от 24.03.2033 № 8096686/33/55006-ИП прекратить.
+2. Отменить постановление о взыскании исполнительского сбора.
+3. Копии постановления направить сторонам исполнительного производства, в суд, другой орган или должностному лицу, выдавшим исполнительный документ, а также в органы (лицам), исполняющие постановления об установлении для должника ограничений:</fssp:ResolutionText>
+  <fssp:FioSign>Примерова Варвара Петровна</fssp:FioSign>
+  <fssp:OrganSignPostCode>07-05</fssp:OrganSignPostCode>
+  <fssp:OrganSignPost>Судебный пристав-исполнитель</fssp:OrganSignPost>
+  <fssp:IsOrder>false</fssp:IsOrder>
+  <fssp:SvodQuantity>2</fssp:SvodQuantity>
+  <fssp:DebtorType>2</fssp:DebtorType>
+  <fssp:DbtrName>Бланкова Анна Романовна</fssp:DbtrName>
+  <fssp:DbtrAdr>643,,55,,,Тест,Учебная,128,98</fssp:DbtrAdr>
+  <fssp:idDbtrBorn>1991-10-06</fssp:idDbtrBorn>
+  <fssp:IdDbtrBornadr>: г. Тестоград, Учебная страна</fssp:IdDbtrBornadr>
+  <fssp:DbtrInn>829669905578</fssp:DbtrInn>
+  <fssp:IdDbtrSNILS>83664316136</fssp:IdDbtrSNILS>
+  <fssp:IdDbtrUIP>8593363261778541440191</fssp:IdDbtrUIP>
+  <fssp:IdCourtName>Судебный участок № 91 в Учебном судебном районе в городе Тесте</fssp:IdCourtName>
+  <fssp:IdCourtAdr>643,644070,,,,Тест-070,Ул Пробная,73,</fssp:IdCourtAdr>
+  <fssp:IdCourt>2400400</fssp:IdCourt>
+  <fssp:IpRisepristName>Примерова Варвара Петровна</fssp:IpRisepristName>
+  <fssp:Spi>Примерова Варвара Петровна</fssp:Spi>
+  <fssp:IpNo>8096686/33/55006-ИП</fssp:IpNo>
+  <fssp:IpId>87651113525720</fssp:IpId>
+  <fssp:IpRiseDate>2033-03-24</fssp:IpRiseDate>
+  <fssp:IpRestDebtsum>206977.34</fssp:IpRestDebtsum>
+  <fssp:IpRestOthersum>16672.94</fssp:IpRestOthersum>
+  <fssp:IdType>4</fssp:IdType>
+  <fssp:IdDocNo>55MS0091#2-8531/2033#1</fssp:IdDocNo>
+  <fssp:IdDocDate>2033-03-22</fssp:IdDocDate>
+  <fssp:IdDeloNo>2-8531/2033</fssp:IdDeloNo>
+  <fssp:IdDeloDate>2033-03-22</fssp:IdDeloDate>
+  <fssp:IdDebtCls>1460000</fssp:IdDebtCls>
+  <fssp:IdDebtSum>238185.06</fssp:IdDebtSum>
+  <fssp:DebtsumCurrencyCode>643</fssp:DebtsumCurrencyCode>
+  <fssp:TotalArrestDebtSum>223650.28</fssp:TotalArrestDebtSum>
+  <fssp:IdDebtText>Взыскать   солидарно с  должников:  Бланковой Анны Романовны, 06.10.1991 года рождения, место рождения: г. Тестоград, Учебная страна, паспорт: 8069 628925;  Учебновой Светланы Павловны, 13.03.2013 года рождения, место рождения г.Тест, паспорт 8770 № 330617;  Архивцова Савелия Кирилловича, 12.05.1986 года рождения, место рождения: с. Тестовка Образцовый р-н Пробная обл., паспорт: 8003 281384, адрес должников: г.Тест, ул. Учебная, д. 128,кв.98, в пользу АО «Тест РТС», ОГРН 8642767001947, ИНН 8016874059, КПП 863182317, адрес: 644037, г. Тест, ул. Шаблонная, д. 10, задолженность по оплате за потребленную тепловую энергию за период с 04.10.2031 по 02.01.2033 в размере 125196,88 руб., (отопление-88599,26 руб., ГВС-36597,62 руб), пени в размере 108482,18 руб. за период 04.10.2031 по 02.01.2033, а также расходы по уплате государственной пошлины в размере 4000 руб. Судебный приказ одновременно является исполнительным документом.  Должник вправе в десятидневный срок со дня получения копии судебного приказа представить возражения относительно его исполнения мировому судье, вынесшему судебный приказ.			</fssp:IdDebtText>
+  <fssp:IdCrdrName>АО "Тест РТС"</fssp:IdCrdrName>
+  <fssp:IdCrdrAdr>643,644037,55,,Тест,,Шаблонная,10,</fssp:IdCrdrAdr>
+  <fssp:IDExternalKey>55MS0091#2-8531/2033#1</fssp:IDExternalKey>
+  <fssp:IDSum>31207.72</fssp:IDSum>
+  <fssp:OIpNpaActsOIp>
+    <fssp:NPAType>4</fssp:NPAType>
+    <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>43</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>2</fssp:NpaArticle>
+        <fssp:NpaArticleType>7</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+        <fssp:OIpNpaArticle>
+          <fssp:NpaArticle>4</fssp:NpaArticle>
+          <fssp:NpaArticleType>5</fssp:NpaArticleType>
+          <fssp:IsMain>false</fssp:IsMain>
+        </fssp:OIpNpaArticle>
+      </fssp:OIpNpaArticle>
+    </fssp:OIpNpaArticle>
+  </fssp:OIpNpaActsOIp>
+  <fssp:OIpNpaActsOIp>
+    <fssp:NPAType>4</fssp:NPAType>
+    <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>6</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>14</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>44</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>45</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+  </fssp:OIpNpaActsOIp>
+  <fssp:OIpActWarningsOIp>
+    <fssp:WarningType>2</fssp:WarningType>
+    <fssp:WarningCode>ФЗ229_СТ121_СТ122</fssp:WarningCode>
+    <fssp:WarningText>Постановление может быть обжаловано в порядке подчиненности вышестоящему должностному лицу службы судебных приставов или оспорено в суде в десятидневный срок</fssp:WarningText>
+    <fssp:OIpNpaActs>
+      <fssp:NPAType>4</fssp:NPAType>
+      <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>121</fssp:NpaArticle>
+        <fssp:NpaArticleType>3</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+      </fssp:OIpNpaArticle>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>122</fssp:NpaArticle>
+        <fssp:NpaArticleType>3</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+      </fssp:OIpNpaArticle>
+    </fssp:OIpNpaActs>
+  </fssp:OIpActWarningsOIp>
+  <fssp:SendList>
+    <fssp:Receiver>АО "Тест РТС"</fssp:Receiver>
+    <fssp:ReceiverAddrType>ЕПГУ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>8016874059</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный участок № 91 в Учебном судебном районе в городе Тесте</fssp:Receiver>
+    <fssp:ReceiverAddrType>ПОЧТОЙ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>644070, г. Тест-070, ул. Пробная, д. 73</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный участок № 91 в Учебном судебном районе в городе Тесте</fssp:Receiver>
+    <fssp:ReceiverAddrType>ПОЧТОЙ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>643,644070,,,,Тест-070,Ул Пробная,73,</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный департамент при Верховном Суде РФ - Подразделение 55MS0091</fssp:Receiver>
+    <fssp:ReceiverAddrType>ВЕБ-СЕРВИС</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>План от 12(20).01.2016</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Бланкова Анна Романовна</fssp:Receiver>
+    <fssp:ReceiverAddrType>ЕПГУ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>83664316136</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:IP>
+    <fssp:InternalKey>81321646294918</fssp:InternalKey>
+    <fssp:IdExternalKey>55MS0091#2-8531/2033#2</fssp:IdExternalKey>
+    <fssp:IPNo>8350315/33/55006-ИП</fssp:IPNo>
+    <fssp:IPRiseDate>2033-03-24</fssp:IPRiseDate>
+    <fssp:DivVksp>55006</fssp:DivVksp>
+    <fssp:IDType>4</fssp:IDType>
+    <fssp:IDDocNo>55MS0091#2-8531/2033#2</fssp:IDDocNo>
+    <fssp:IDDocDate>2033-03-22</fssp:IDDocDate>
+    <fssp:IdDebtText>Взыскать   солидарно с  должников: 
+Бланковой Анны Романовны, 06.10.1991 года рождения, место рождения: г. Тестоград, Учебная страна, паспорт: 8069 628925; 
+Учебновой Светланы Павловны, 13.03.2013 года рождения, место рождения г.Тест, паспорт 8770 № 330617; 
+Архивцова Савелия Кирилловича, 12.05.1986 года рождения, место рождения: с. Тестовка Образцовый р-н Пробная обл., паспорт: 8003 281384,
+адрес должников: г.Тест, ул. Учебная, д. 128,кв.98,
+в пользу АО «Тест РТС», ОГРН 8642767001947, ИНН 8016874059, КПП 863182317, адрес: 644037, г. Тест, ул. Шаблонная, д. 10,
+задолженность по оплате за потребленную тепловую энергию за период с 04.10.2031 по 02.01.2033 в размере 125196,88 руб., (отопление-88599,26 руб., ГВС-36597,62 руб), пени в размере 108482,18 руб. за период 04.10.2031 по 02.01.2033, а также расходы по уплате государственной пошлины в размере 4000 руб.
+Судебный приказ одновременно является исполнительным документом. 
+Должник вправе в десятидневный срок со дня получения копии судебного приказа представить возражения относительно его исполнения мировому судье, вынесшему судебный приказ.			
+, сумма долга 238185.06 руб.</fssp:IdDebtText>
+    <fssp:DbtrName>Учебнова Светлана Павловна</fssp:DbtrName>
+    <fssp:IdCrdrName>АО "Тест РТС"</fssp:IdCrdrName>
+    <fssp:IdCourt>2400400</fssp:IdCourt>
+    <fssp:IdCourtDiv>55MS0091</fssp:IdCourtDiv>
+    <fssp:IdCourtName>Судебный участок № 91 в Учебном судебном районе в городе Тесте</fssp:IdCourtName>
+    <fssp:IdDebtCls>1460000</fssp:IdDebtCls>
+    <fssp:IdDebtSum>238185.06</fssp:IdDebtSum>
+    <fssp:IpRestDebtsum>206977.34</fssp:IpRestDebtsum>
+    <fssp:IpRestOthersum>16672.94</fssp:IpRestOthersum>
+  </fssp:IP>
+  <fssp:IP>
+    <fssp:InternalKey>87651113525720</fssp:InternalKey>
+    <fssp:IdExternalKey>55MS0091#2-8531/2033#1</fssp:IdExternalKey>
+    <fssp:IPNo>8096686/33/55006-ИП</fssp:IPNo>
+    <fssp:IPRiseDate>2033-03-24</fssp:IPRiseDate>
+    <fssp:DivVksp>55006</fssp:DivVksp>
+    <fssp:IDType>4</fssp:IDType>
+    <fssp:IDDocNo>55MS0091#2-8531/2033#1</fssp:IDDocNo>
+    <fssp:IDDocDate>2033-03-22</fssp:IDDocDate>
+    <fssp:IdDebtText>Взыскать   солидарно с  должников: 
+Бланковой Анны Романовны, 06.10.1991 года рождения, место рождения: г. Тестоград, Учебная страна, паспорт: 8069 628925; 
+Учебновой Светланы Павловны, 13.03.2013 года рождения, место рождения г.Тест, паспорт 8770 № 330617; 
+Архивцова Савелия Кирилловича, 12.05.1986 года рождения, место рождения: с. Тестовка Образцовый р-н Пробная обл., паспорт: 8003 281384,
+адрес должников: г.Тест, ул. Учебная, д. 128,кв.98,
+в пользу АО «Тест РТС», ОГРН 8642767001947, ИНН 8016874059, КПП 863182317, адрес: 644037, г. Тест, ул. Шаблонная, д. 10,
+задолженность по оплате за потребленную тепловую энергию за период с 04.10.2031 по 02.01.2033 в размере 125196,88 руб., (отопление-88599,26 руб., ГВС-36597,62 руб), пени в размере 108482,18 руб. за период 04.10.2031 по 02.01.2033, а также расходы по уплате государственной пошлины в размере 4000 руб.
+Судебный приказ одновременно является исполнительным документом. 
+Должник вправе в десятидневный срок со дня получения копии судебного приказа представить возражения относительно его исполнения мировому судье, вынесшему судебный приказ.			
+, сумма долга 238185.06 руб.</fssp:IdDebtText>
+    <fssp:DbtrName>Бланкова Анна Романовна</fssp:DbtrName>
+    <fssp:IdCrdrName>АО "Тест РТС"</fssp:IdCrdrName>
+    <fssp:IdCourt>2400400</fssp:IdCourt>
+    <fssp:IdCourtDiv>55MS0091</fssp:IdCourtDiv>
+    <fssp:IdCourtName>Судебный участок № 91 в Учебном судебном районе в городе Тесте</fssp:IdCourtName>
+    <fssp:IdDebtCls>1460000</fssp:IdDebtCls>
+    <fssp:IdDebtSum>238185.06</fssp:IdDebtSum>
+    <fssp:IpRestDebtsum>206977.34</fssp:IpRestDebtsum>
+    <fssp:IpRestOthersum>16672.94</fssp:IpRestOthersum>
+  </fssp:IP>
+</fssp:OIp>

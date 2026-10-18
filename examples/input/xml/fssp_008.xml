@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fssp:OIp xmlns:fssp="http://www.fssprus.ru/namespace/order/2017/2">
+  <fssp:Id>80650564950998</fssp:Id>
+  <fssp:DocType>O_IP_ACT_END_STOP</fssp:DocType>
+  <fssp:DocName>Постановление о прекращении исполнительного производства</fssp:DocName>
+  <fssp:Barcode>830258899/6263</fssp:Barcode>
+  <fssp:DivVksp>55003</fssp:DivVksp>
+  <fssp:DivName>ОСП по Октябрьскому АО г. Теста ГУФССП России по Пробной области</fssp:DivName>
+  <fssp:DivCity>г. Тест</fssp:DivCity>
+  <fssp:DivAdr>644027, Россия, , , г. Тест, , Космический пр-кт, 31, , </fssp:DivAdr>
+  <fssp:DocDate>2033-07-29</fssp:DocDate>
+  <fssp:AdjudicationText>В ходе исполнения требований исполнительного документа установлено, что Отмена или признание недействительным исполнительного документа, на основании которого возбуждено исполнительное производство.</fssp:AdjudicationText>
+  <fssp:ResolutionText>1. Исполнительное производство от 11.10.8856 № 509740/25/55003-ИП прекратить.
+2. Отменить постановление о взыскании исполнительского сбора.
+3. Копии постановления направить сторонам исполнительного производства, в суд, другой орган или должностному лицу, выдавшим исполнительный документ, а также в органы (лицам), исполняющие постановления об установлении для должника ограничений:</fssp:ResolutionText>
+  <fssp:FioSign>Замерова Людмила Марковна</fssp:FioSign>
+  <fssp:OrganSignPostCode>06-08</fssp:OrganSignPostCode>
+  <fssp:OrganSignPost>Ведущий судебный пристав-исполнитель</fssp:OrganSignPost>
+  <fssp:IsOrder>false</fssp:IsOrder>
+  <fssp:DebtorType>2</fssp:DebtorType>
+  <fssp:DbtrName>Моделова Екатерина Борисовна</fssp:DbtrName>
+  <fssp:DbtrAdr>643,644023,55,,Тест,,Учебный,5А,с13к70-71</fssp:DbtrAdr>
+  <fssp:idDbtrBorn>1998-03-14</fssp:idDbtrBorn>
+  <fssp:IdDbtrBornadr>г. Тест</fssp:IdDbtrBornadr>
+  <fssp:DbtrInn>835684644249</fssp:DbtrInn>
+  <fssp:IdDbtrSNILS>83882319037</fssp:IdDbtrSNILS>
+  <fssp:IdDbtrUIP>8172633552628504808175</fssp:IdDbtrUIP>
+  <fssp:IdCourtName>Судебный участок № 67 в Октябрьском судебном районе в городе Тесте</fssp:IdCourtName>
+  <fssp:IdCourtAdr>643,644018,,,г. Тест-018,,ул. 6-я Модельная,д. 11 А,</fssp:IdCourtAdr>
+  <fssp:IdCourt>2400400</fssp:IdCourt>
+  <fssp:IpRisepristName>Замерова Людмила Марковна</fssp:IpRisepristName>
+  <fssp:Spi>Замерова Людмила Марковна</fssp:Spi>
+  <fssp:IpNo>862176/33/55003-ИП</fssp:IpNo>
+  <fssp:IpId>84229472067887</fssp:IpId>
+  <fssp:IpRiseDate>2033-02-12</fssp:IpRiseDate>
+  <fssp:IpRestDebtsum>179912.54</fssp:IpRestDebtsum>
+  <fssp:IpRestOthersum>12623.68</fssp:IpRestOthersum>
+  <fssp:IdType>4</fssp:IdType>
+  <fssp:IdDocNo>55MS0067#2-8015/2033#10</fssp:IdDocNo>
+  <fssp:IdDocDate>2033-01-19</fssp:IdDocDate>
+  <fssp:IdDeloNo>2-8015/2033</fssp:IdDeloNo>
+  <fssp:IdDeloDate>2033-01-19</fssp:IdDeloDate>
+  <fssp:IdDebtCls>1190000</fssp:IdDebtCls>
+  <fssp:IdDebtSum>180338.34</fssp:IdDebtSum>
+  <fssp:DebtsumCurrencyCode>643</fssp:DebtsumCurrencyCode>
+  <fssp:TotalArrestDebtSum>192536.22</fssp:TotalArrestDebtSum>
+  <fssp:IdDebtText>Взыскать солидарно  с должников: Моделова Екатерина Борисовна, 14.03.1998 года рождения, место рождения г. Тест, паспорт 8021 233954, место работы не известно,  Моделова Наталья Арсеньевна, 04.01.1978 года рождения, место рождения г. Тест, паспорт 8652 284866, место работы не известно, адрес проживания: 644023 г. Тест ул. Учебный городок д. 5А с13к71, в пользу взыскателя - АО «Тест РТС», расположенного по адресу: 644037, г. Тест, ул. Шаблонная, д. 10, ИНН 8016874059, ОГРН 8642767001947, КПП 863182317, дата внесения записи в ЕГРЮЛ 03.08.2021 года, о вынесении судебного приказа на взыскание задолженности за потребленную тепловую энергию за период с 05.05.2030 по 02.10.2032 в размере 62392,14 руб., пени в размере 113581,40 руб., за период с 05.05.2030 по 02.10.2032, судебные расходы в размере 364,80 руб., а также расходы по уплате государственной пошлины в размере 4000,00 руб. Судебный приказ одновременно является исполнительным документом.  Должник вправе в десятидневный срок со дня получения копии судебного приказа представить возражения относительно его исполнения мировому судье, вынесшему судебный приказ.</fssp:IdDebtText>
+  <fssp:IdCrdrName>АО Тест РТС</fssp:IdCrdrName>
+  <fssp:IdCrdrAdr>644037, Россия, , , г. Тест, , ул. Шаблонная, д. 10, , </fssp:IdCrdrAdr>
+  <fssp:IDExternalKey>55MS0067#2-8015/2033#10</fssp:IDExternalKey>
+  <fssp:IDSum>425.80</fssp:IDSum>
+  <fssp:OIpNpaActsOIp>
+    <fssp:NPAType>4</fssp:NPAType>
+    <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>43</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>2</fssp:NpaArticle>
+        <fssp:NpaArticleType>7</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+        <fssp:OIpNpaArticle>
+          <fssp:NpaArticle>5</fssp:NpaArticle>
+          <fssp:NpaArticleType>5</fssp:NpaArticleType>
+          <fssp:IsMain>false</fssp:IsMain>
+        </fssp:OIpNpaArticle>
+      </fssp:OIpNpaArticle>
+    </fssp:OIpNpaArticle>
+  </fssp:OIpNpaActsOIp>
+  <fssp:OIpNpaActsOIp>
+    <fssp:NPAType>4</fssp:NPAType>
+    <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>6</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>14</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>44</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>45</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+  </fssp:OIpNpaActsOIp>
+  <fssp:OIpActWarningsOIp>
+    <fssp:WarningType>2</fssp:WarningType>
+    <fssp:WarningCode>ФЗ229_СТ121_СТ122</fssp:WarningCode>
+    <fssp:WarningText>Постановление может быть обжаловано в порядке подчиненности вышестоящему должностному лицу службы судебных приставов или оспорено в суде в десятидневный срок</fssp:WarningText>
+    <fssp:OIpNpaActs>
+      <fssp:NPAType>4</fssp:NPAType>
+      <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>121</fssp:NpaArticle>
+        <fssp:NpaArticleType>3</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+      </fssp:OIpNpaArticle>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>122</fssp:NpaArticle>
+        <fssp:NpaArticleType>3</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+      </fssp:OIpNpaArticle>
+    </fssp:OIpNpaActs>
+  </fssp:OIpActWarningsOIp>
+  <fssp:SendList>
+    <fssp:Receiver>АО Тест РТС</fssp:Receiver>
+    <fssp:ReceiverAddrType>ЕПГУ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>8016874059</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный участок № 67 в Октябрьском судебном районе в городе Тесте</fssp:Receiver>
+    <fssp:ReceiverAddrType>ПОЧТОЙ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>644018, г. Тест-018, ул. 6-я Модельная, д. 11 А</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный участок № 67 в Октябрьском судебном районе в городе Тесте</fssp:Receiver>
+    <fssp:ReceiverAddrType>ПОЧТОЙ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>643,644018,,,г. Тест-018,,ул. 6-я Модельная,д. 11 А,</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный департамент при Верховном Суде РФ - Подразделение 55MS0067</fssp:Receiver>
+    <fssp:ReceiverAddrType>ВЕБ-СЕРВИС</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>План от 12(20).01.2016</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Моделова Екатерина Борисовна</fssp:Receiver>
+    <fssp:ReceiverAddrType>ЕПГУ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>83882319037</fssp:ReceiverAddr>
+  </fssp:SendList>
+</fssp:OIp>

@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fssp:OIp xmlns:fssp="http://www.fssprus.ru/namespace/order/2017/2">
+  <fssp:Id>80988353334716</fssp:Id>
+  <fssp:DocType>O_IP_ACT_END_END</fssp:DocType>
+  <fssp:DocName>Постановление об окончании исполнительного производства</fssp:DocName>
+  <fssp:Barcode>895839640/2726</fssp:Barcode>
+  <fssp:DivVksp>55003</fssp:DivVksp>
+  <fssp:DivName>ОСП по Октябрьскому АО г. Теста ГУФССП России по Пробной области</fssp:DivName>
+  <fssp:DivCity>г. Тест</fssp:DivCity>
+  <fssp:DivAdr>644027, Россия, , , г. Тест, , Космический пр-кт, 31, , </fssp:DivAdr>
+  <fssp:DocDate>2033-06-10</fssp:DocDate>
+  <fssp:AdjudicationText>В ходе исполнения данного исполнительного производства установлено, что у должника отсутствует имущество, на которое может быть обращено взыскание, и все принятые судебным приставом-исполнителем допустимые законом меры по отысканию его имущества оказались безрезультатными.</fssp:AdjudicationText>
+  <fssp:ResolutionText>1. Исполнительное производство № 877036/33/55003-ИП окончить.
+2. Отменить все назначенные меры принудительного исполнения, а так же установленные для должника ограничения.
+3. Копию настоящего постановления направить:</fssp:ResolutionText>
+  <fssp:FioSign>Учебова Вера Мироновна</fssp:FioSign>
+  <fssp:OrganSignPostCode>07-05</fssp:OrganSignPostCode>
+  <fssp:OrganSignPost>Судебный пристав-исполнитель</fssp:OrganSignPost>
+  <fssp:IsOrder>false</fssp:IsOrder>
+  <fssp:DebtorType>2</fssp:DebtorType>
+  <fssp:DbtrName>Макетова Светлана Савельевна</fssp:DbtrName>
+  <fssp:DbtrAdr>643,644076,55,,Тест,,Примеренко,5,71</fssp:DbtrAdr>
+  <fssp:idDbtrBorn>1974-09-19</fssp:idDbtrBorn>
+  <fssp:IdDbtrBornadr>г. Тест</fssp:IdDbtrBornadr>
+  <fssp:DbtrInn>850682136211</fssp:DbtrInn>
+  <fssp:IdDbtrSNILS>84907625294</fssp:IdDbtrSNILS>
+  <fssp:IdDbtrUIP>8501506119032661339118</fssp:IdDbtrUIP>
+  <fssp:IdCourtName>Судебный участок № 72 в Октябрьском судебном районе в городе Тесте</fssp:IdCourtName>
+  <fssp:IdCourtAdr>643,644018,,,г. Тест-018,,ул. 6-я Модельная,д. 11 А,</fssp:IdCourtAdr>
+  <fssp:IdCourt>2400400</fssp:IdCourt>
+  <fssp:IpRisepristName>Учебова Вера Мироновна</fssp:IpRisepristName>
+  <fssp:Spi>Учебова Вера Мироновна</fssp:Spi>
+  <fssp:IpNo>877036/33/55003-ИП</fssp:IpNo>
+  <fssp:IpId>83956908908204</fssp:IpId>
+  <fssp:IpRiseDate>2033-04-04</fssp:IpRiseDate>
+  <fssp:IpRestDebtsum>434822.22</fssp:IpRestDebtsum>
+  <fssp:IpRestOthersum>0.00</fssp:IpRestOthersum>
+  <fssp:IdType>4</fssp:IdType>
+  <fssp:IdDocNo>55MS0072#2-8104/2033#1</fssp:IdDocNo>
+  <fssp:IdDocDate>2033-03-31</fssp:IdDocDate>
+  <fssp:IdDeloNo>2-8104/2033</fssp:IdDeloNo>
+  <fssp:IdDeloDate>2033-03-31</fssp:IdDeloDate>
+  <fssp:IdDebtCls>1460000</fssp:IdDebtCls>
+  <fssp:IdDebtSum>434822.22</fssp:IdDebtSum>
+  <fssp:DebtsumCurrencyCode>643</fssp:DebtsumCurrencyCode>
+  <fssp:TotalArrestDebtSum>434822.22</fssp:TotalArrestDebtSum>
+  <fssp:IdDebtText>Взыскать с  должника: Макетова Светлана Савельевна, 19.09.1974 года рождения, место рождения г. Тест, паспорт 8894 070461, ИНН 850682136211, место работы не известно, адрес 644076 г. Тест, ул. Примеренко, д. 5, кв. 71 в пользу взыскателя - АО «Тест РТС», расположенного по адресу: 644037, г. Тест, ул. Шаблонная, д. 10, ИНН 8016874059, ОГРН 8642767001947, КПП 863182317, дата внесения записи в ЕГРЮЛ 03.08.2021 года,  задолженность за потребленную тепловую энергию за период с 05.06.2030 по 02.12.2032 в размере 139167,46 руб., пени в размере 288064,36 руб. за период с 05.06.2030 по 02.12.2032, а также расходы по уплате государственной пошлины в размере 7408,00 руб., судебные расходы по отправке почтовой корреспонденции в размере 182,40 руб. Судебный приказ одновременно является исполнительным документом.  Должник вправе в десятидневный срок со дня получения копии судебного приказа представить возражения относительно его исполнения мировому судье, вынесшему судебный приказ.</fssp:IdDebtText>
+  <fssp:IdCrdrName>АО Тест РТС - Акционерное общество "Омские распределительные сети"</fssp:IdCrdrName>
+  <fssp:IdCrdrAdr>643,644037,55,,Тест,,Партизанвская,10,</fssp:IdCrdrAdr>
+  <fssp:IDExternalKey>55MS0072#2-8104/2033#1</fssp:IDExternalKey>
+  <fssp:IDSum>0.00</fssp:IDSum>
+  <fssp:OIpNpaActsOIp>
+    <fssp:NPAType>4</fssp:NPAType>
+    <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>6</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>14</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+  </fssp:OIpNpaActsOIp>
+  <fssp:OIpNpaActsOIp>
+    <fssp:NPAType>4</fssp:NPAType>
+    <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>46</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>1</fssp:NpaArticle>
+        <fssp:NpaArticleType>7</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+        <fssp:OIpNpaArticle>
+          <fssp:NpaArticle>4</fssp:NpaArticle>
+          <fssp:NpaArticleType>5</fssp:NpaArticleType>
+          <fssp:IsMain>false</fssp:IsMain>
+        </fssp:OIpNpaArticle>
+      </fssp:OIpNpaArticle>
+    </fssp:OIpNpaArticle>
+  </fssp:OIpNpaActsOIp>
+  <fssp:OIpActWarningsOIp>
+    <fssp:WarningType>2</fssp:WarningType>
+    <fssp:WarningCode>ФЗ229_СТ121_СТ122</fssp:WarningCode>
+    <fssp:WarningText>Постановление может быть обжаловано в порядке подчиненности вышестоящему должностному лицу службы судебных приставов или оспорено в суде в десятидневный срок</fssp:WarningText>
+    <fssp:OIpNpaActs>
+      <fssp:NPAType>4</fssp:NPAType>
+      <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>121</fssp:NpaArticle>
+        <fssp:NpaArticleType>3</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+      </fssp:OIpNpaArticle>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>122</fssp:NpaArticle>
+        <fssp:NpaArticleType>3</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+      </fssp:OIpNpaArticle>
+    </fssp:OIpNpaActs>
+  </fssp:OIpActWarningsOIp>
+  <fssp:SendList>
+    <fssp:Receiver>АО Тест РТС - Акционерное общество "Омские распределительные сети"</fssp:Receiver>
+    <fssp:ReceiverAddrType>ЕПГУ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>8016874059</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный участок № 72 в Октябрьском судебном районе в городе Тесте</fssp:Receiver>
+    <fssp:ReceiverAddrType>ПОЧТОЙ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>644018, г. Тест-018, ул. 6-я Модельная, д. 11 А</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный участок № 72 в Октябрьском судебном районе в городе Тесте</fssp:Receiver>
+    <fssp:ReceiverAddrType>ПОЧТОЙ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>643,644018,,,г. Тест-018,,ул. 6-я Модельная,д. 11 А,</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный департамент при Верховном Суде РФ - Подразделение 55MS0072</fssp:Receiver>
+    <fssp:ReceiverAddrType>ВЕБ-СЕРВИС</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>План от 12(20).01.2016</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Макетова Светлана Савельевна</fssp:Receiver>
+    <fssp:ReceiverAddrType>ЕПГУ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>84907625294</fssp:ReceiverAddr>
+  </fssp:SendList>
+</fssp:OIp>

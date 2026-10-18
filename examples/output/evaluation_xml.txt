@@ -1,0 +1,31 @@
+поле                   точность
+DocType                    100%
+DocType2                   100%
+DebtorType                 100%
+DocDate                    100%
+IdDebtText                 100%
+IdDocNo                    100%
+IdDocDate                  100%
+IdDeloNo                   100%
+IdDeloDate                 100%
+IdDebtSum                  100%
+IpNo                       100%
+IdType                     100%
+DbtrAdr                    100%
+street                     100%
+dom                        100%
+kv                         100%
+DbtrName                   100%
+date_start                  95%
+date_end                   100%
+rub_deb                    100%
+rub_peni                   100%
+rub_poshlina               100%
+rub_post                   100%
+
+ИТОГО: 482/483 = 99.8%
+
+Расхождения по причинам:
+  пропуск (в эталоне есть, у нас пусто): 0
+  лишнее (у нас есть, в эталоне пусто: возможен пробел разметки): 0
+  расхождение значений: 1

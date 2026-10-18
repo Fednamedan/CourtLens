@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fssp:OIp xmlns:fssp="http://www.fssprus.ru/namespace/order/2017/2">
+  <fssp:Id>83330225396148</fssp:Id>
+  <fssp:DocType>O_IP_ACT_REOPEN_CANCEL</fssp:DocType>
+  <fssp:DocName>Постановление об отказе в возбуждении исполнительного производства</fssp:DocName>
+  <fssp:Barcode>830642934/0322</fssp:Barcode>
+  <fssp:DivVksp>55002</fssp:DivVksp>
+  <fssp:DivName>ОСП по Ленинскому АО г. Теста</fssp:DivName>
+  <fssp:DivCity>г. Тест</fssp:DivCity>
+  <fssp:DivAdr>644005, Россия, , , г. Тест, , ул. Лагоды, д. 1, корп. Д, </fssp:DivAdr>
+  <fssp:DocDate>2033-08-04</fssp:DocDate>
+  <fssp:AdjudicationText>Постановление об отказе в возбуждении исполнительного производства выносится, если:
+исполнительный документ выдан в отношении требования, указанного должником-гражданином в заявлении о признании его банкротом во внесудебном порядке, при этом в Единый федеральный реестр сведений о банкротстве включены сведения о возбуждении в отношении должника-гражданина процедуры внесудебного банкротства и указанная процедура внесудебного банкротства не прекращена (за исключением исполнительных документов по требованиям, указанным в подпункте 2 пункта 1 статьи 223.4 Федерального закона от 27 февраля 2010 года № 127-ФЗ "О несостоятельности (банкротстве)") (п. 12 ч. 1 ст. 31).
+Предъявленный исполнительный документ выдан в отношении требования, указанного должником-гражданином в заявлении о признании его банкротом во внесудебном порядке. В Единый федеральный реестр сведений о банкротстве включены сведения о возбуждении в отношении должника-гражданина процедуры внесудебного банкротства и указанная процедура внесудебного банкротства не прекращена.
+Требования предъявленного исполнительного документа не относятся к требованиям, указанным в подпункте 2 пункта 1 статьи 223.4 Федерального закона от 27.02.2010 № 127-ФЗ «О несостоятельности (банкротстве)».</fssp:AdjudicationText>
+  <fssp:ResolutionText>1. Отказать в возбуждении исполнительного производства на основании исполнительного документа Судебный приказ № 55MS0059#2-800/2033#1 от 01.08.2033, выданный органом: Судебный участок № 59 в Ленинском судебном районе в городе Тесте по делу № 2-800/2033, вступившему в законную силу 30.07.2033, предмет исполнения: Взыскать солидарно с  Условцова Назара Матвеевича, 08.11.2013 года рождения, место рождения: г. Тест, паспорт: 8727 913620, ИНН 881310045038, Замерцова Арсения Степановича, 25.03.1993 года рождения, место рождения: г. Тест, паспорт: 8199 451480, ИНН 863850459324, Шаблоновой (Условцова) Татьяны Андреевны, 15.02.1992 года рождения, место рождения: г. Тест, паспорт: 8507 420044, ИНН 860151012027, проживают по адресу: г. Тест, ул. 10-я Чередовая, д. 26, кв. 53, в пользу Акционерного общества «Тест РТС» задолженность за потребленную тепловую энергию по адресу: г. Тест, ул. 10-я Чередовая, д. 26, кв. 53, за период с 03.07.2030 г. по 03.04.2033 г. в размере 234156,36 руб., пени за период с 03.07.2030 г. по 03.04.2033 г. в размере 410801,08 руб., почтовые расходы в размере 729,60 руб., а также расходы по уплате государственной пошлины в размере 10562,00 руб., всего в размере: 656250 руб., в отношении должника: Шаблоновой Татьяны Андреевны, СНИЛС 81425356834, 15.02.1992 года рождения, адрес должника: 643,,55,,,Тест,11 Контурная,26,53, в пользу взыскателя: АО "Тест РТС", адрес взыскателя: 643,644037,55,,Тест,,Шаблонная,10,, вследствие ч.1 ст.31 Федерального закона от 02.10.2007 № 229-ФЗ «Об исполнительном производстве».
+2. Разъяснить, что в соответствии с частью 3 статьи 31 Федерального закона от 02.10.2007 № 229-ФЗ «Об исполнительном производстве» устранение обстоятельств, предусмотренных пунктами 1 — 4, 7 части 1 указанной статьи, не препятствует повторному направлению (предъявлению) исполнительного документа судебному приставу-исполнителю в порядке, установленном указанным Федеральным законом.
+3. Копию настоящего постановления направить:</fssp:ResolutionText>
+  <fssp:FioSign>Пробнова Алиса Алексеевна</fssp:FioSign>
+  <fssp:OrganSignPostCode>11-3-4-105</fssp:OrganSignPostCode>
+  <fssp:OrganSignPost>Судебный пристав-исполнитель</fssp:OrganSignPost>
+  <fssp:IsOrder>false</fssp:IsOrder>
+  <fssp:DebtorType>2</fssp:DebtorType>
+  <fssp:DbtrName>Шаблонова Татьяна Андреевна</fssp:DbtrName>
+  <fssp:DbtrAdr>643,,55,,,Тест,11 Контурная,26,53</fssp:DbtrAdr>
+  <fssp:idDbtrBorn>1992-02-15</fssp:idDbtrBorn>
+  <fssp:IdDbtrBornadr>г. Тест</fssp:IdDbtrBornadr>
+  <fssp:DbtrInn>860151012027</fssp:DbtrInn>
+  <fssp:IdDbtrOgrn>834175733838246</fssp:IdDbtrOgrn>
+  <fssp:IdDbtrSNILS>81425356834</fssp:IdDbtrSNILS>
+  <fssp:IdDbtrUIP>8919288929593490525190</fssp:IdDbtrUIP>
+  <fssp:IdCourtName>Судебный участок № 59 в Ленинском судебном районе в городе Тесте</fssp:IdCourtName>
+  <fssp:IdCourtAdr>643,644091,,,,Тест-091,6-я Комсомольская,30,</fssp:IdCourtAdr>
+  <fssp:IdCourt>2400400</fssp:IdCourt>
+  <fssp:IpRisepristName>Пробнова Алиса Алексеевна</fssp:IpRisepristName>
+  <fssp:Spi>Пробнова Алиса Алексеевна</fssp:Spi>
+  <fssp:IpNo>80440/33/55002-ИП</fssp:IpNo>
+  <fssp:IpId>82971360700636</fssp:IpId>
+  <fssp:IpRestOthersum>656250.00</fssp:IpRestOthersum>
+  <fssp:IdType>4</fssp:IdType>
+  <fssp:IdDocNo>55MS0059#2-800/2033#1</fssp:IdDocNo>
+  <fssp:IdDocDate>2033-08-01</fssp:IdDocDate>
+  <fssp:IdDeloNo>2-800/2033</fssp:IdDeloNo>
+  <fssp:IdDeloDate>2033-07-30</fssp:IdDeloDate>
+  <fssp:IdDebtCls>1060000</fssp:IdDebtCls>
+  <fssp:IdDebtSum>656250.00</fssp:IdDebtSum>
+  <fssp:DebtsumCurrencyCode>643</fssp:DebtsumCurrencyCode>
+  <fssp:TotalArrestDebtSum>656250.00</fssp:TotalArrestDebtSum>
+  <fssp:IdDebtText>Взыскать солидарно с  Условцова Назара Матвеевича, 08.11.2013 года рождения, место рождения: г. Тест, паспорт: 8727 913620, ИНН 881310045038, Замерцова Арсения Степановича, 25.03.1993 года рождения, место рождения: г. Тест, паспорт: 8199 451480, ИНН 863850459324, Шаблоновой (Условцова) Татьяны Андреевны, 15.02.1992 года рождения, место рождения: г. Тест, паспорт: 8507 420044, ИНН 860151012027, проживают по адресу: г. Тест, ул. 10-я Чередовая, д. 26, кв. 53, в пользу Акционерного общества «Тест РТС» задолженность за потребленную тепловую энергию по адресу: г. Тест, ул. 10-я Чередовая, д. 26, кв. 53, за период с 03.07.2030 г. по 03.04.2033 г. в размере 234156,36 руб., пени за период с 03.07.2030 г. по 03.04.2033 г. в размере 410801,08 руб., почтовые расходы в размере 729,60 руб., а также расходы по уплате государственной пошлины в размере 10562,00 руб.</fssp:IdDebtText>
+  <fssp:IdCrdrName>АО "Тест РТС"</fssp:IdCrdrName>
+  <fssp:IdCrdrAdr>643,644037,55,,Тест,,Шаблонная,10,</fssp:IdCrdrAdr>
+  <fssp:IDExternalKey>55MS0059#2-800/2033#1</fssp:IDExternalKey>
+  <fssp:OIpNpaActsOIp>
+    <fssp:NPAType>4</fssp:NPAType>
+    <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>31</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+  </fssp:OIpNpaActsOIp>
+  <fssp:OIpNpaActsOIp>
+    <fssp:NPAType>5</fssp:NPAType>
+    <fssp:NpaCaption>ФЗ «Об органах принудительного исполнения Российской Федерации»</fssp:NpaCaption>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>14</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+  </fssp:OIpNpaActsOIp>
+  <fssp:OIpActWarningsOIp>
+    <fssp:WarningType>2</fssp:WarningType>
+    <fssp:WarningCode>ФЗ229_СТ121_СТ122</fssp:WarningCode>
+    <fssp:WarningText>Постановление может быть обжаловано в порядке подчиненности вышестоящему должностному лицу службы судебных приставов или оспорено в суде в десятидневный срок</fssp:WarningText>
+    <fssp:OIpNpaActs>
+      <fssp:NPAType>4</fssp:NPAType>
+      <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>121</fssp:NpaArticle>
+        <fssp:NpaArticleType>3</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+      </fssp:OIpNpaArticle>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>122</fssp:NpaArticle>
+        <fssp:NpaArticleType>3</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+      </fssp:OIpNpaArticle>
+    </fssp:OIpNpaActs>
+  </fssp:OIpActWarningsOIp>
+  <fssp:SendList>
+    <fssp:Receiver>АО "Тест РТС"</fssp:Receiver>
+    <fssp:ReceiverAddrType>ЕПГУ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>8016874059</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный участок № 59 в Ленинском судебном районе в городе Тесте</fssp:Receiver>
+    <fssp:ReceiverAddrType>ПОЧТОЙ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>644091, г. Тест-091, ул. 6-я Комсомольская, д. 30</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный участок № 59 в Ленинском судебном районе в городе Тесте</fssp:Receiver>
+    <fssp:ReceiverAddrType>ПОЧТОЙ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>643,644091,,,,Тест-091,6-я Комсомольская,30,</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный департамент при Верховном Суде РФ - Подразделение 55MS0059</fssp:Receiver>
+    <fssp:ReceiverAddrType>ВЕБ-СЕРВИС</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>План от 12(20).01.2016</fssp:ReceiverAddr>
+  </fssp:SendList>
+</fssp:OIp>

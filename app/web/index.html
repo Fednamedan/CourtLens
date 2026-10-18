@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>court-ai: судебные акты и ФССП</title>
+<style>
+  :root { --bg:#f6f7f9; --card:#fff; --ink:#1c2430; --muted:#667085; --line:#e3e6eb; --accent:#1f5eff;
+          --red:#fbd5d0; --yellow:#fff0b8; --green:#d9f2e1; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#14181f; --card:#1c222b; --ink:#e8ebf0; --muted:#98a2b3; --line:#2d3541; --accent:#6b93ff;
+            --red:#5a2823; --yellow:#5a4a14; --green:#1c4a2c; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif; }
+  main { max-width:1100px; margin:0 auto; padding:24px 16px 64px; }
+  h1 { font-size:22px; margin:0 0 4px; } .sub { color:var(--muted); margin:0 0 20px; }
+  section { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:18px; margin-bottom:16px; }
+  h2 { font-size:16px; margin:0 0 12px; }
+  label { display:block; font-size:13px; color:var(--muted); margin:10px 0 3px; }
+  input[type=text], input[type=number], input[type=password], input[type=email], select {
+    width:100%; padding:8px 10px; border:1px solid var(--line); border-radius:6px; background:var(--bg); color:var(--ink); font:inherit; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:0 14px; }
+  .radio { display:flex; gap:10px; align-items:flex-start; padding:10px 12px; border:1px solid var(--line); border-radius:8px; margin-bottom:8px; cursor:pointer; }
+  .radio input { margin-top:4px; } .radio b { display:block; } .radio span { color:var(--muted); font-size:13px; }
+  .radio.on { border-color:var(--accent); }
+  button { font:inherit; padding:8px 14px; border-radius:6px; border:1px solid var(--line); background:var(--card); color:var(--ink); cursor:pointer; }
+  button.primary { background:var(--accent); border-color:var(--accent); color:#fff; }
+  button:disabled { opacity:.5; cursor:default; }
+  .row { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin-top:12px; }
+  .drop { border:2px dashed var(--line); border-radius:10px; padding:26px; text-align:center; color:var(--muted); }
+  .drop.over { border-color:var(--accent); color:var(--accent); }
+  .msg { font-size:13px; margin-top:8px; } .ok { color:#1a7f43; } .bad { color:#c0392b; }
+  .files { font-size:13px; color:var(--muted); margin-top:8px; }
+  .bar { height:8px; background:var(--line); border-radius:4px; overflow:hidden; margin-top:10px; }
+  .bar i { display:block; height:100%; width:0; background:var(--accent); transition:width .3s; }
+  .tablewrap { overflow:auto; border:1px solid var(--line); border-radius:8px; max-height:420px; }
+  table { border-collapse:collapse; font-size:12.5px; white-space:nowrap; }
+  th, td { border-bottom:1px solid var(--line); padding:5px 8px; text-align:left; }
+  th { position:sticky; top:0; background:var(--card); z-index:1; }
+  td.s-missing { background:var(--red); } td.s-low_confidence, td.s-invalid { background:var(--yellow); }
+  .tag { display:inline-block; padding:1px 8px; border-radius:10px; background:var(--yellow); font-size:12px; }
+  .legend span { display:inline-block; padding:1px 8px; border-radius:4px; margin-right:6px; font-size:12px; }
+  .hidden { display:none; } a.dl { margin-right:12px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>court-ai</h1>
+  <p class="sub">Судебные приказы, исполнительные листы (PDF, сканы) и постановления ФССП (XML) → таблица. Акты для юриста уходят письмом.</p>
+
+  <section>
+    <h2>1. Письма ответственному сотруднику</h2>
+    <label class="radio" id="r-save"><input type="radio" name="mode" value="save">
+      <div><b>Сохранять письма в файлы</b><span>Готовые .eml (с вложенным актом) складываются в архив для скачивания. Ничего никуда не отправляется.</span></div></label>
+    <label class="radio" id="r-smtp"><input type="radio" name="mode" value="smtp">
+      <div><b>Отправлять по SMTP</b><span>Письмо уходит сразу через указанный почтовый сервер.</span></div></label>
+    <label class="radio" id="r-off"><input type="radio" name="mode" value="off">
+      <div><b>Не формировать письма</b><span>Только таблицы; акты для юриста отмечаются в результатах.</span></div></label>
+
+    <div class="grid">
+      <div><label for="to">Адрес сотрудника (получатель)</label><input id="to" type="email" placeholder="lawyer@company.ru"></div>
+      <div id="f-sender"><label for="sender">От кого (необязательно)</label><input id="sender" type="email" placeholder="по умолчанию — логин SMTP"></div>
+    </div>
+    <div id="smtp-box" class="hidden">
+      <div class="grid">
+        <div><label for="host">SMTP-сервер</label><input id="host" type="text" placeholder="smtp.company.ru"></div>
+        <div><label for="port">Порт</label><input id="port" type="number" value="587"></div>
+        <div><label for="sec">Шифрование</label>
+          <select id="sec"><option value="starttls">STARTTLS (обычно порт 587)</option><option value="ssl">SSL/TLS (обычно порт 465)</option><option value="none">Без шифрования (только для теста)</option></select></div>
+        <div><label for="user">Логин</label><input id="user" type="text" autocomplete="off"></div>
+        <div><label for="pw">Пароль</label><input id="pw" type="password" autocomplete="new-password" placeholder=""></div>
+      </div>
+      <div class="row">
+        <button id="b-check">Проверить соединение</button>
+        <button id="b-test">Отправить тестовое письмо</button>
+      </div>
+    </div>
+    <div class="row"><button id="b-save">Сохранить настройки</button><span id="m-set" class="msg"></span></div>
+    <p class="msg" style="color:var(--muted)">Настройки хранятся на сервере в data/settings.json (пароль — открытым текстом, для прототипа). На боевом стенде используйте переменные окружения.</p>
+  </section>
+
+  <section>
+    <h2>2. Документы</h2>
+    <div class="drop" id="drop">Перетащите сюда PDF и XML или <button id="b-pick">выберите файлы</button>
+      <input id="pick" type="file" multiple accept=".pdf,.xml" class="hidden"></div>
+    <div class="files" id="files"></div>
+    <label style="display:flex;gap:8px;align-items:center;color:var(--ink);font-size:14px;margin-top:12px"><input type="checkbox" id="llm"> Добирать пропущенные поля через языковую модель (нужна настроенная LLM)</label>
+    <div class="row"><button class="primary" id="b-run" disabled>Обработать</button><span id="m-run" class="msg"></span></div>
+    <div class="bar hidden" id="bar"><i id="bar-i"></i></div>
+  </section>
+
+  <section id="res" class="hidden">
+    <h2>3. Результат</h2>
+    <p class="legend"><span style="background:var(--red)">не извлечено</span><span style="background:var(--yellow)">проверить</span></p>
+    <div id="downloads" class="row" style="margin:0 0 12px"></div>
+    <div id="mail"></div>
+    <div id="court"></div>
+    <div id="xml"></div>
+  </section>
+</main>
+<script>
+const $ = id => document.getElementById(id);
+let files = [];
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+function mode() { return document.querySelector('input[name=mode]:checked').value; }
+function syncMode() {
+  const m = mode();
+  ['save','smtp','off'].forEach(x => $('r-'+x).classList.toggle('on', x === m));
+  $('smtp-box').classList.toggle('hidden', m !== 'smtp');
+  $('to').closest('.grid').classList.toggle('hidden', m === 'off' || m === 'save' && false);
+  $('f-sender').classList.toggle('hidden', m !== 'smtp');
+}
+document.querySelectorAll('input[name=mode]').forEach(r => r.addEventListener('change', syncMode));
+
+function form(extra = {}) {
+  return { mail_mode: mode(), to: $('to').value.trim(), sender: $('sender').value.trim(), smtp_host: $('host').value.trim(),
+           smtp_port: +$('port').value || 587, smtp_security: $('sec').value, smtp_user: $('user').value.trim(),
+           smtp_password: $('pw').value, ...extra };
+}
+async function post(url, body) {
+  const r = await fetch(url, {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(body)});
+  if (!r.ok) throw new Error((await r.json()).detail || r.status);
+  return r.json();
+}
+function say(el, ok, text) { el.className = 'msg ' + (ok ? 'ok' : 'bad'); el.textContent = text; }
+
+async function loadSettings() {
+  const s = await (await fetch('/api/settings')).json();
+  document.querySelector(`input[name=mode][value=${s.mail_mode}]`).checked = true;
+  $('to').value = s.to; $('sender').value = s.sender; $('host').value = s.smtp_host; $('port').value = s.smtp_port;
+  $('sec').value = s.smtp_security; $('user').value = s.smtp_user;
+  $('pw').placeholder = s.has_password ? 'сохранён (оставьте пустым, чтобы не менять)' : '';
+  syncMode();
+}
+$('b-save').onclick = async () => {
+  try { await post('/api/settings', form()); say($('m-set'), true, 'Настройки сохранены'); $('pw').value=''; loadSettings(); }
+  catch (e) { say($('m-set'), false, e.message); }
+};
+async function smtpTest(send) {
+  say($('m-set'), true, 'Проверяю…');
+  try { const r = await post('/api/smtp/test', form({send_test: send})); say($('m-set'), r.ok, r.message); }
+  catch (e) { say($('m-set'), false, e.message); }
+}
+$('b-check').onclick = () => smtpTest(false);
+$('b-test').onclick = () => smtpTest(true);
+
+// файлы
+function setFiles(list) {
+  files = [...list].filter(f => /\.(pdf|xml)$/i.test(f.name));
+  $('files').textContent = files.length ? `Выбрано файлов: ${files.length} — ` + files.map(f => f.name).join(', ') : '';
+  $('b-run').disabled = !files.length;
+}
+$('b-pick').onclick = () => $('pick').click();
+$('pick').onchange = e => setFiles(e.target.files);
+const drop = $('drop');
+['dragover','dragenter'].forEach(ev => drop.addEventListener(ev, e => { e.preventDefault(); drop.classList.add('over'); }));
+['dragleave','drop'].forEach(ev => drop.addEventListener(ev, e => { e.preventDefault(); drop.classList.remove('over'); }));
+drop.addEventListener('drop', e => setFiles(e.dataTransfer.files));
+
+$('b-run').onclick = async () => {
+  if (mode() === 'smtp' && !$('to').value.trim()) return say($('m-run'), false, 'Для отправки по SMTP укажите адрес сотрудника');
+  $('b-run').disabled = true; $('res').classList.add('hidden');
+  try { await post('/api/settings', form()); } catch (e) { return say($('m-run'), false, e.message); }
+  const fd = new FormData(); files.forEach(f => fd.append('files', f)); fd.append('use_llm', $('llm').checked);
+  const r = await fetch('/api/process', {method:'POST', body:fd});
+  if (!r.ok) { $('b-run').disabled = false; return say($('m-run'), false, (await r.json()).detail); }
+  const {job} = await r.json();
+  $('bar').classList.remove('hidden');
+  const t = setInterval(async () => {
+    const j = await (await fetch('/api/jobs/' + job)).json();
+    $('bar-i').style.width = (j.total ? 100 * j.done / j.total : 0) + '%';
+    say($('m-run'), true, j.status === 'running' ? `Обработано ${j.done} из ${j.total}: ${j.current}` : '');
+    if (j.status !== 'running') { clearInterval(t); $('b-run').disabled = false; $('bar').classList.add('hidden'); show(job, j); }
+  }, 1200);
+};
+
+function table(title, rows, cols) {
+  if (!rows.length) return '';
+  let h = `<h3 style="font-size:14px;margin:16px 0 6px">${title} (${rows.length})</h3><div class="tablewrap"><table><tr><th>Файл</th><th>Тип</th>${cols.map(c => `<th>${esc(c)}</th>`).join('')}<th>Юрист</th><th>Ошибки</th></tr>`;
+  for (const r of rows) {
+    h += `<tr><td>${esc(r.file)}</td><td>${esc(r.doc_type)}</td>` + cols.map(c => {
+      const f = r.fields[c]; const cls = 's-' + (!f ? 'missing' : f.status);
+      return `<td class="${cls}" title="${esc(f && f.note || '')}">${esc(f && f.value)}</td>`; }).join('')
+      + `<td>${r.needs_lawyer ? '<span class="tag">да: ' + esc(r.legal.map(l => l.phrase).join('; ')) + '</span>' : ''}</td><td>${esc(r.errors.join('; '))}</td></tr>`;
+  }
+  return h + '</table></div>';
+}
+function show(job, j) {
+  $('res').classList.remove('hidden');
+  if (j.status === 'error') { $('downloads').innerHTML = ''; return $('court').innerHTML = `<p class="bad">Ошибка: ${esc(j.error)}</p>`; }
+  const names = {'result.csv':'Судебные акты (CSV)','result.xlsx':'Судебные акты (XLSX)','result_debtors.csv':'По должникам (CSV)',
+                 'result_xml.csv':'ФССП (CSV)','result_xml.xlsx':'ФССП (XLSX)','emails.zip':'Письма (.eml, архив)'};
+  $('downloads').innerHTML = j.outputs.filter(o => names[o]).map(o => `<a class="dl" href="/api/jobs/${job}/files/${o}">${names[o]}</a>`).join('');
+  const mails = Object.entries(j.mail || {});
+  $('mail').innerHTML = (j.notes || []).map(n => `<p class="msg" style="color:var(--muted)">${esc(n)}</p>`).join('')
+    + (mails.length ? '<h3 style="font-size:14px;margin:8px 0 6px">Письма юристу</h3><ul>' + mails.map(([f, s]) => `<li>${esc(f)} — ${esc(s)}</li>`).join('') + '</ul>'
+      : '<p class="msg" style="color:var(--muted)">Актов, требующих юриста, не найдено — писем нет.</p>');
+  $('court').innerHTML = table('Судебные акты', j.court, j.court_cols);
+  $('xml').innerHTML = table('Постановления ФССП (XML)', j.xml, j.xml_cols);
+}
+loadSettings();
+</script>
+</body>
+</html>

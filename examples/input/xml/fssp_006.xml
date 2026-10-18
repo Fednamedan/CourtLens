@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fssp:OIp xmlns:fssp="http://www.fssprus.ru/namespace/order/2017/2">
+  <fssp:Id>84711254802957</fssp:Id>
+  <fssp:DocType>O_IP_ACT_END_STOP</fssp:DocType>
+  <fssp:DocName>Постановление о прекращении исполнительного производства</fssp:DocName>
+  <fssp:Barcode>880296884/4395</fssp:Barcode>
+  <fssp:DivVksp>55002</fssp:DivVksp>
+  <fssp:DivName>ОСП по Ленинскому АО г. Теста</fssp:DivName>
+  <fssp:DivCity>г. Тест</fssp:DivCity>
+  <fssp:DivAdr>644005, Россия, , , г. Тест, , ул. Лагоды, д. 1, корп. Д, </fssp:DivAdr>
+  <fssp:DocDate>2033-06-16</fssp:DocDate>
+  <fssp:AdjudicationText>В ходе исполнения требований исполнительного документа установлено, что Отмена судебного акта, на основании которого выдан исполнительный документ.</fssp:AdjudicationText>
+  <fssp:ResolutionText>1. Исполнительное производство от 24.10.8537 № 100799/25/55002-ИП прекратить.
+2. Отменить постановление о взыскании исполнительского сбора.
+3. Копии постановления направить сторонам исполнительного производства, в суд, другой орган или должностному лицу, выдавшим исполнительный документ, а также в органы (лицам), исполняющие постановления об установлении для должника ограничений:</fssp:ResolutionText>
+  <fssp:FioSign>Това Варвара Кирилловна</fssp:FioSign>
+  <fssp:OrganSignPostCode>07-05</fssp:OrganSignPostCode>
+  <fssp:OrganSignPost>Судебный пристав-исполнитель</fssp:OrganSignPost>
+  <fssp:IsOrder>false</fssp:IsOrder>
+  <fssp:DebtorType>2</fssp:DebtorType>
+  <fssp:DbtrName>Условова Татьяна Матвеевна</fssp:DbtrName>
+  <fssp:DbtrAdr>643,,55,,Тест,,Макетчиков,49,120</fssp:DbtrAdr>
+  <fssp:idDbtrBorn>1961-04-24</fssp:idDbtrBorn>
+  <fssp:IdDbtrBornadr>г. Тест </fssp:IdDbtrBornadr>
+  <fssp:DbtrInn>817985489760</fssp:DbtrInn>
+  <fssp:IdDbtrSNILS>80200714878</fssp:IdDbtrSNILS>
+  <fssp:IdDbtrUIP>8753056706668399274809</fssp:IdDbtrUIP>
+  <fssp:IdCourtName>Судебный участок № 53 в Ленинском судебном районе в городе Тесте</fssp:IdCourtName>
+  <fssp:IdCourtAdr>643,644020,,,г. Тест,,Ангарская,13,9</fssp:IdCourtAdr>
+  <fssp:IdCourt>2400400</fssp:IdCourt>
+  <fssp:IpRisepristName>Сводова Марина Степановна</fssp:IpRisepristName>
+  <fssp:Spi>Това Варвара Кирилловна</fssp:Spi>
+  <fssp:IpNo>822849/33/55002-ИП</fssp:IpNo>
+  <fssp:IpId>80495917515526</fssp:IpId>
+  <fssp:IpRiseDate>2033-02-25</fssp:IpRiseDate>
+  <fssp:IpRestDebtsum>141804.28</fssp:IpRestDebtsum>
+  <fssp:IpRestOthersum>0.00</fssp:IpRestOthersum>
+  <fssp:IdType>4</fssp:IdType>
+  <fssp:IdDocNo>55MS0053#2-8722/2033#1</fssp:IdDocNo>
+  <fssp:IdDocDate>2033-02-23</fssp:IdDocDate>
+  <fssp:IdDeloNo>2-8722/2033</fssp:IdDeloNo>
+  <fssp:IdDeloDate>2033-02-18</fssp:IdDeloDate>
+  <fssp:IdDebtCls>1190000</fssp:IdDebtCls>
+  <fssp:IdDebtSum>141804.28</fssp:IdDebtSum>
+  <fssp:DebtsumCurrencyCode>643</fssp:DebtsumCurrencyCode>
+  <fssp:TotalArrestDebtSum>141804.28</fssp:TotalArrestDebtSum>
+  <fssp:IdDebtText>Р Е Ш И Л : 	 Взыскать с Услововой Татьяны Матвеевны, 24.04.1961 года рождения, место рождения: г. Тест, паспорт: серия 5203 номер 266334, адрес: г. Тест, пр-кт Макетчиков, д. 49 кв. 120,  в пользу Акционерного общества «Омские распределительные тепловые сети», ИНН 8016874059, ОГРН 8642767001947, расположенного по адресу: 644037, г. Тест,      ул. Шаблонная, д. 10, задолженность за потребленную тепловую энергию по адресу: г. Тест, пр-кт Макетчиков, д. 49 кв. 120, за период с 04.04.2030 по 01.09.2032 в размере 110776,92 рублей, пени за период с 04.04.2030 по 01.09.2032 в размере 27027,36 рублей, а также расходы по оплате государственной пошлины в размере 4000 рублей. Судебный приказ является одновременно исполнительным документом.  Срок предъявления судебного приказа к исполнению три года. Должник в течение десяти дней со дня получения судебного приказа имеет право предоставить свои возражения относительно его исполнения в порядке ст. 128 ГПК РФ, что влечет отмену судебного приказа в соответствии со ст. 129 ГПК РФ.    Мировой судья                                                                                      В.Д. Разметнова</fssp:IdDebtText>
+  <fssp:IdCrdrName>АО "Тест РТС"</fssp:IdCrdrName>
+  <fssp:IdCrdrAdr>643,644037,,,Тест,,Шаблонная,10,</fssp:IdCrdrAdr>
+  <fssp:IDExternalKey>55MS0053#2-8722/2033#1</fssp:IDExternalKey>
+  <fssp:IDSum>0.00</fssp:IDSum>
+  <fssp:OIpNpaActsOIp>
+    <fssp:NPAType>4</fssp:NPAType>
+    <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>43</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>2</fssp:NpaArticle>
+        <fssp:NpaArticleType>7</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+        <fssp:OIpNpaArticle>
+          <fssp:NpaArticle>4</fssp:NpaArticle>
+          <fssp:NpaArticleType>5</fssp:NpaArticleType>
+          <fssp:IsMain>false</fssp:IsMain>
+        </fssp:OIpNpaArticle>
+      </fssp:OIpNpaArticle>
+    </fssp:OIpNpaArticle>
+  </fssp:OIpNpaActsOIp>
+  <fssp:OIpNpaActsOIp>
+    <fssp:NPAType>4</fssp:NPAType>
+    <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>6</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>14</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>44</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>45</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+  </fssp:OIpNpaActsOIp>
+  <fssp:OIpActWarningsOIp>
+    <fssp:WarningType>2</fssp:WarningType>
+    <fssp:WarningCode>ФЗ229_СТ121_СТ122</fssp:WarningCode>
+    <fssp:WarningText>Постановление может быть обжаловано в порядке подчиненности вышестоящему должностному лицу службы судебных приставов или оспорено в суде в десятидневный срок</fssp:WarningText>
+    <fssp:OIpNpaActs>
+      <fssp:NPAType>4</fssp:NPAType>
+      <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>121</fssp:NpaArticle>
+        <fssp:NpaArticleType>3</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+      </fssp:OIpNpaArticle>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>122</fssp:NpaArticle>
+        <fssp:NpaArticleType>3</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+      </fssp:OIpNpaArticle>
+    </fssp:OIpNpaActs>
+  </fssp:OIpActWarningsOIp>
+  <fssp:SendList>
+    <fssp:Receiver>АО "Тест РТС"</fssp:Receiver>
+    <fssp:ReceiverAddrType>ЕПГУ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>8016874059</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный участок № 53 в Ленинском судебном районе в городе Тесте</fssp:Receiver>
+    <fssp:ReceiverAddrType>ПОЧТОЙ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>644020, г. Тест, ул. Серова, д. 37</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный участок № 53 в Ленинском судебном районе в городе Тесте</fssp:Receiver>
+    <fssp:ReceiverAddrType>ПОЧТОЙ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>643,644020,,,г. Тест,,Ангарская,13,9</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный департамент при Верховном Суде РФ - Подразделение 55MS0053</fssp:Receiver>
+    <fssp:ReceiverAddrType>ВЕБ-СЕРВИС</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>План от 12(20).01.2016</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Условова Татьяна Матвеевна</fssp:Receiver>
+    <fssp:ReceiverAddrType>ЕПГУ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>80200714878</fssp:ReceiverAddr>
+  </fssp:SendList>
+</fssp:OIp>

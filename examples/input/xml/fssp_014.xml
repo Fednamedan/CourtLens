@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fssp:OIp xmlns:fssp="http://www.fssprus.ru/namespace/order/2017/2">
+  <fssp:Id>82520672634672</fssp:Id>
+  <fssp:DocType>O_IP_ACT_REOPEN_CANCEL</fssp:DocType>
+  <fssp:DocName>Постановление об отказе в возбуждении исполнительного производства</fssp:DocName>
+  <fssp:Barcode>865081089/7638</fssp:Barcode>
+  <fssp:DivVksp>55006</fssp:DivVksp>
+  <fssp:DivName>ОСП по Центральному АО № 2 г.Теста</fssp:DivName>
+  <fssp:DivCity>г. Тест</fssp:DivCity>
+  <fssp:DivAdr>644009, Россия, , , г. Тест, , ул. 12 лет Примеров, 187А, , </fssp:DivAdr>
+  <fssp:DocDate>2033-03-28</fssp:DocDate>
+  <fssp:AdjudicationText>Постановление об отказе в возбуждении исполнительного производства выносится, если:
+исполнительный документ в соответствие с законодательством Российской Федерации не подлежит исполнению Федеральной службой судебных приставов (п. 8 ч. 1 ст. 31).
+Предъявленный исполнительный документ в соответствии с законодательством Российской Федерации не подлежит исполнению ФССП России.</fssp:AdjudicationText>
+  <fssp:ResolutionText>1. Отказать в возбуждении исполнительного производства на основании исполнительного документа Судебный приказ № 55MS0088#2-8176/2033#9 от 15.03.2033, выданный органом: Судебный участок № 88 в Учебном судебном районе в городе Тесте по делу № 2-8176/2033, вступившему в законную силу 15.03.2033, предмет исполнения: Взыскать с должника Пробцовой Людмилы Михайловны, адрес регистрации: 644046, Пробная Область, г Тест, ул Шаблонщиков , д 137а, кв 17к1, дата рождения: 31.05.1964, уроженца(ки): г. Тест, место работы: отсутствует в пользу  АО "Тест РТС", юр. адрес: г Тест, ул Шаблонная,10 , , ИНН: 8016874059, КПП: 863182317, ОКТМО: 87290295662, ОГРН: 8207324743206, БИК: 885087997, р/с: 84914922957058406869 19368 девятнадцать тысяч триста шестьдесят восемь рублей 00 копеек неустойку в размере _, пени в размере _, расходы по уплате государственной пошлины в размере 0 (ноль рублей 00 копеек)      Должник вправе в десятидневный срок со дня получения копии судебного приказа представить возражения относительно его исполнения мировому судье, вынесшему судебный приказ., всего в размере: 38735,12 руб., в отношении должника: Пробцовой Людмилы Михайловны, СНИЛС 89322042503, 31.05.1964 года рождения, адрес должника: 643,644046,55,Район,,Тест,Шаблонщиков ,137а,17к1, в пользу взыскателя: АО "Тест РТС", адрес взыскателя: 643,,,,Тест,,Шаблонная,10 ,,, вследствие ч.1 ст.31 Федерального закона от 02.10.2007 № 229-ФЗ «Об исполнительном производстве».
+2. Разъяснить, что в соответствии с частью 3 статьи 31 Федерального закона от 02.10.2007 № 229-ФЗ «Об исполнительном производстве» устранение обстоятельств, предусмотренных пунктами 1 — 4, 7 части 1 указанной статьи, не препятствует повторному направлению (предъявлению) исполнительного документа судебному приставу-исполнителю в порядке, установленном указанным Федеральным законом.
+3. Копию настоящего постановления направить:</fssp:ResolutionText>
+  <fssp:FioSign>Учебцова Анастасия Владимировна</fssp:FioSign>
+  <fssp:OrganSignPostCode>06-08</fssp:OrganSignPostCode>
+  <fssp:OrganSignPost>Ведущий судебный пристав-исполнитель</fssp:OrganSignPost>
+  <fssp:IsOrder>false</fssp:IsOrder>
+  <fssp:DebtorType>2</fssp:DebtorType>
+  <fssp:DbtrName>Пробцова Людмила Михайловна</fssp:DbtrName>
+  <fssp:DbtrAdr>643,644046,55,Район,,Тест,Шаблонщиков ,137а,17к1</fssp:DbtrAdr>
+  <fssp:idDbtrBorn>1964-05-31</fssp:idDbtrBorn>
+  <fssp:IdDbtrBornadr>г. Тест</fssp:IdDbtrBornadr>
+  <fssp:DbtrInn>850081810955</fssp:DbtrInn>
+  <fssp:IdDbtrSNILS>89322042503</fssp:IdDbtrSNILS>
+  <fssp:IdDbtrUIP>8196030610889988066195</fssp:IdDbtrUIP>
+  <fssp:IdCourtName>Судебный участок № 88 в Учебном судебном районе в городе Тесте</fssp:IdCourtName>
+  <fssp:IdCourtAdr>643,644070,,,,Тест-070,Ул Пробная,73,</fssp:IdCourtAdr>
+  <fssp:IdCourt>2400400</fssp:IdCourt>
+  <fssp:IpRisepristName>Учебцова Анастасия Владимировна</fssp:IpRisepristName>
+  <fssp:Spi>Учебцова Анастасия Владимировна</fssp:Spi>
+  <fssp:IpNo>8557106/32/55006-ИП</fssp:IpNo>
+  <fssp:IpId>84000166984269</fssp:IpId>
+  <fssp:IpRestOthersum>38735.12</fssp:IpRestOthersum>
+  <fssp:IdType>4</fssp:IdType>
+  <fssp:IdDocNo>55MS0088#2-8176/2033#9</fssp:IdDocNo>
+  <fssp:IdDocDate>2033-03-15</fssp:IdDocDate>
+  <fssp:IdDeloNo>2-8176/2033</fssp:IdDeloNo>
+  <fssp:IdDeloDate>2033-03-15</fssp:IdDeloDate>
+  <fssp:IdDebtCls>1060000</fssp:IdDebtCls>
+  <fssp:IdDebtSum>38735.12</fssp:IdDebtSum>
+  <fssp:DebtsumCurrencyCode>643</fssp:DebtsumCurrencyCode>
+  <fssp:TotalArrestDebtSum>38735.12</fssp:TotalArrestDebtSum>
+  <fssp:IdDebtText>Взыскать с должника Пробцовой Людмилы Михайловны, адрес регистрации: 644046, Пробная Область, г Тест, ул Шаблонщиков , д 137а, кв 17к1, дата рождения: 31.05.1964, уроженца(ки): г. Тест, место работы: отсутствует в пользу  АО "Тест РТС", юр. адрес: г Тест, ул Шаблонная,10 , , ИНН: 8016874059, КПП: 863182317, ОКТМО: 87290295662, ОГРН: 8207324743206, БИК: 885087997, р/с: 84914922957058406869 19368 девятнадцать тысяч триста шестьдесят восемь рублей 00 копеек неустойку в размере _, пени в размере _, расходы по уплате государственной пошлины в размере 0 (ноль рублей 00 копеек)      Должник вправе в десятидневный срок со дня получения копии судебного приказа представить возражения относительно его исполнения мировому судье, вынесшему судебный приказ.</fssp:IdDebtText>
+  <fssp:IdCrdrName>АО "Тест РТС"</fssp:IdCrdrName>
+  <fssp:IdCrdrAdr>643,,,,Тест,,Шаблонная,10 ,,</fssp:IdCrdrAdr>
+  <fssp:IDExternalKey>55MS0088#2-8176/2033#9</fssp:IDExternalKey>
+  <fssp:OIpNpaActsOIp>
+    <fssp:NPAType>4</fssp:NPAType>
+    <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>31</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+  </fssp:OIpNpaActsOIp>
+  <fssp:OIpNpaActsOIp>
+    <fssp:NPAType>5</fssp:NPAType>
+    <fssp:NpaCaption>ФЗ «Об органах принудительного исполнения Российской Федерации»</fssp:NpaCaption>
+    <fssp:OIpNpaArticle>
+      <fssp:NpaArticle>14</fssp:NpaArticle>
+      <fssp:NpaArticleType>3</fssp:NpaArticleType>
+      <fssp:IsMain>false</fssp:IsMain>
+    </fssp:OIpNpaArticle>
+  </fssp:OIpNpaActsOIp>
+  <fssp:OIpActWarningsOIp>
+    <fssp:WarningType>2</fssp:WarningType>
+    <fssp:WarningCode>ФЗ229_СТ121_СТ122</fssp:WarningCode>
+    <fssp:WarningText>Постановление может быть обжаловано в порядке подчиненности вышестоящему должностному лицу службы судебных приставов или оспорено в суде в десятидневный срок</fssp:WarningText>
+    <fssp:OIpNpaActs>
+      <fssp:NPAType>4</fssp:NPAType>
+      <fssp:NpaCaption>ФЗ от 02.10.2007 № 229-ФЗ «Об исполнительном производстве»</fssp:NpaCaption>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>121</fssp:NpaArticle>
+        <fssp:NpaArticleType>3</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+      </fssp:OIpNpaArticle>
+      <fssp:OIpNpaArticle>
+        <fssp:NpaArticle>122</fssp:NpaArticle>
+        <fssp:NpaArticleType>3</fssp:NpaArticleType>
+        <fssp:IsMain>false</fssp:IsMain>
+      </fssp:OIpNpaArticle>
+    </fssp:OIpNpaActs>
+  </fssp:OIpActWarningsOIp>
+  <fssp:SendList>
+    <fssp:Receiver>АО "Тест РТС"</fssp:Receiver>
+    <fssp:ReceiverAddrType>ЕПГУ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>8016874059</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный участок № 88 в Учебном судебном районе в городе Тесте</fssp:Receiver>
+    <fssp:ReceiverAddrType>ПОЧТОЙ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>644070, г. Тест-070, ул. Пробная, д. 73</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный участок № 88 в Учебном судебном районе в городе Тесте</fssp:Receiver>
+    <fssp:ReceiverAddrType>ПОЧТОЙ</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>643,644070,,,,Тест-070,Ул Пробная,73,</fssp:ReceiverAddr>
+  </fssp:SendList>
+  <fssp:SendList>
+    <fssp:Receiver>Судебный департамент при Верховном Суде РФ - Подразделение 55MS0088</fssp:Receiver>
+    <fssp:ReceiverAddrType>ВЕБ-СЕРВИС</fssp:ReceiverAddrType>
+    <fssp:ReceiverAddr>План от 12(20).01.2016</fssp:ReceiverAddr>
+  </fssp:SendList>
+</fssp:OIp>
